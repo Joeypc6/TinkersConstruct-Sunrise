@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_copper_can/fluid",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/potion/still"
+ }
+}

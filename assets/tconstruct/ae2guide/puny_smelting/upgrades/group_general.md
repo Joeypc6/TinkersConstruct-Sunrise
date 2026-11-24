@@ -1,0 +1,5 @@
+# General Upgrades
+
+Upgrades are modifiers added to tools using upgrade recipes. Each tool has a limited number of upgrade slots to start, though the number of slots can be increased in a few ways.
+
+General upgrades work well on any tool! These upgrades will enhance your tool all around, by increasing its attack damage, mining speed, durability, and more!

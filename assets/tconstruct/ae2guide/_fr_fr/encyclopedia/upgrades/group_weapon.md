@@ -1,0 +1,7 @@
+# Améliorations de Mêlée
+
+Les améliorations de mêlée sont les plus efficaces sur les outils conçus pour le combat rapproché, qu’il s’agisse d’une épée, d’un outil de récolte détourné ou d’un arc utilisé pour frapper.
+
+Lorsqu’elles sont appliquées à des armes à distance comme les arcs ou les arbalètes, ces modifications n’augmentent l’efficacité de l’arme qu’en attaque de mêlée, sauf indication contraire.
+
+Bon nombre de ces améliorations peuvent aussi être appliquées aux plastrons grâce au modificateur « à mains nues ». Elles n’augmentent alors les attaques qu’avec une main vide.

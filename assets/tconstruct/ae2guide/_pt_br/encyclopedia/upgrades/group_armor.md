@@ -1,0 +1,5 @@
+# Melhorias de Armaduras
+
+As melhorias em armaduras geralmente são eficazes em um único tipo de armadura ou são projetadas para funcionar em contra-ataques. Se aplicável em várias peças, os efeitos geralmente interagem de alguma forma.
+
+Modificadores de contra-ataque de escudo só funcionam enquanto estiver bloqueando, mas, fora isso, são duas vezes mais eficazes. Outros modificadores de escudo funcionam passivamente.

@@ -1,0 +1,11 @@
+# 副产物
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_foundry.snbt" />
+</GameScene>
+
+我这奇妙的熔铸炉在冶炼矿物的时候也会产出一些副产物。你可能会问：“那Nemea，这些副 产物都是什么呢？”接着往下看你就知道了。
+
+副产物是在矿石内部隐藏的额外成分，你用普通的熔炉是没法获取到这些副产物的。石头里 也可能隐藏着一些其他的材料。
+
+举几个例子：熔炼铜矿石的副产物是金，熔炼钴矿石的副产物则是铁。

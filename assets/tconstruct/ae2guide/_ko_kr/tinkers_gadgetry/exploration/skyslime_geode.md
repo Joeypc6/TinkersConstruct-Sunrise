@@ -1,0 +1,7 @@
+# 하늘슬라임 정동
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_exploration_skyslime_geode.snbt" />
+</GameScene>
+
+하늘슬라임 정동은 지표면 근처 동굴에서 발견되는데, 아주 가끔 지표면에 드러나 있을 때가 있어. 어떤 이유에서인지는 몰라도 이 정동은 따뜻한 생물군계에서도 엄청 차가워서, 수정 주변에 꽁꽁 언 얼음을 형성하곤 해.

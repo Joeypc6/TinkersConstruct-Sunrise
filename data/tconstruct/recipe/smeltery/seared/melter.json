@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "key": {
+  "B": "tconstruct:seared_brick",
+  "G": "#tconstruct:horizon/ingredient_4"
+ },
+ "pattern": [
+  "BGB",
+  "BBB"
+ ],
+ "result": {
+  "id": "tconstruct:seared_melter"
+ },
+ "show_notification": true
+}

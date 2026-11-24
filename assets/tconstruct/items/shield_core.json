@@ -1,0 +1,211 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:bamboo"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_bamboo"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:blazewood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_blazewood_glow7"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:blazing_bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_blazing_bone_glow15"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_bone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cactus"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_cactus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:chorus"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_chorus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:ice"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_ice"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:ironwood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_ironwood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nahuatl"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_nahuatl"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:necronium"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_necronium"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:necrotic_bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_necrotic_bone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#bloodshroom"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_bloodshroom"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#composite"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#enderbark"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_enderbark"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#greenheart"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#skyroot"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_slimewood_skyroot"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:treated_wood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_treated_wood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:venombone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_venombone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_wood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood#crimson"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_wood_crimson"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood#warped"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/shield/core_tconstruct_wood_warped"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/shield_core"
+  }
+ }
+}

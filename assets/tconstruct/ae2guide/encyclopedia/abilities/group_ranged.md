@@ -1,0 +1,3 @@
+# Ranged Abilities
+
+Ranged abilities can be applied to longbows and crossbows to either boost the bow or the arrows fired.

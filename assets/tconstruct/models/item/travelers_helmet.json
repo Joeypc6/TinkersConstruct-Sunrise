@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/armor/travelers/goggles/base",
+  "layer1": "tconstruct:item/tool/armor/travelers/goggles/metal",
+  "layer2": "tconstruct:item/tool/armor/travelers/goggles/cuirass"
+ }
+}

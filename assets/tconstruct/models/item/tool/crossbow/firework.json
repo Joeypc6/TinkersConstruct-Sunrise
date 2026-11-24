@@ -1,0 +1,9 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/crossbow/limb",
+  "layer1": "tconstruct:item/tool/crossbow/firework",
+  "layer2": "tconstruct:item/tool/crossbow/body",
+  "layer3": "tconstruct:item/tool/crossbow/bowstring_3"
+ }
+}

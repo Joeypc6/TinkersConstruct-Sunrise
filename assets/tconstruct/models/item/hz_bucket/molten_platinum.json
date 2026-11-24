@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid_glow12",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/compat_ore/platinum/still"
+ }
+}

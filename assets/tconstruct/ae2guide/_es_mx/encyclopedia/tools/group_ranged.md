@@ -1,0 +1,5 @@
+# Armas a distancia
+
+Las armas a distancia son ideales para atacar a los enemigos desde lejos.
+
+Muchas armas a distancia funcionan también como armas cuerpo a cuerpo, aunque suelen ser menos efectivas. Como resultado, no todos los modificadores aplicables afectan a los ataques a distancia.

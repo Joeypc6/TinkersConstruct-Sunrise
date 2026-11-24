@@ -1,0 +1,118 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:feather"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_wool_white"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:leaves"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_vine"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:magma"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_magma_glow5"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:paper"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_paper"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimeball"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_earthslime"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimeball#earth"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_earthslime"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimeball#ender"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_enderslime"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimeball#ichor"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_ichor_glow10"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimeball#sky"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/ammo/arrow_feather_tconstruct_skyslime"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/fletching"
+  },
+  "transformation": {
+   "translation": [
+    0.25,
+    0.3125,
+    0.0
+   ],
+   "left_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "right_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  }
+ }
+}

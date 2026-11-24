@@ -1,0 +1,5 @@
+# Escamas de dragón
+
+<ItemImage id="tconstruct:dragon_scale" scale="2" />
+
+Si golpeas al Dragón del Fin con una explosión, podría soltar una escama. Dicen que lo más fácil es romper un cristal del Fin mientras lo cura, aunque el TNT también sirve. Aún no logro obtener una, pero he oído que Thruul halló la forma de usarlas para potenciar herramientas.

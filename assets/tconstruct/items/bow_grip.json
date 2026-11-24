@@ -1,0 +1,469 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:aluminum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_aluminum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:amethyst_bronze"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_amethyst_bronze"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bamboo"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_bamboo"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:blazing_bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_blazing_bone_glow15"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_bone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bronze"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_bronze"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cactus"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_cactus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:chorus"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_chorus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cinderslime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_cinderslime_glow10"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cobalt"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_cobalt"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:constantan"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_constantan"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:copper"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_copper"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:copper#oxidized"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_copper_oxidized"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:electrum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_electrum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:fiery"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_fiery_glow15"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:hepatizon"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_hepatizon"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:invar"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_invar"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:iron"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_iron"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:iron#oxidized"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_iron_oxidized"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:ironwood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_ironwood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:knightmetal"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_knightmetal"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:knightslime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_knightslime"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:lead"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_lead"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:manyullyn"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_manyullyn"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nahuatl"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_nahuatl"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:necronium"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_necronium"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:necrotic_bone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_necrotic_bone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nicrosil"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_nicrosil"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:pewter"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_pewter"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:pig_iron"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_pig_iron"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:plated_slimewood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_plated_slimewood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:queens_slime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_queens_slime_glow9"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:rose_gold"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_rose_gold"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:silver"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_silver"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimesteel"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimesteel"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#bloodshroom"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_bloodshroom"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#composite"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#enderbark"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_enderbark"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#greenheart"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_greenheart"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimewood#skyroot"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_slimewood_skyroot"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:steel"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_steel"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:steeleaf"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_steeleaf"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:treated_wood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_treated_wood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:venombone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_venombone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_wood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood#crimson"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_wood_crimson"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:wood#warped"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/crossbow/body_tconstruct_wood_warped"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/bow_grip"
+  },
+  "transformation": {
+   "translation": [
+    -0.125,
+    0.125,
+    0.0
+   ],
+   "left_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "right_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "template": "minecraft:vine",
+ "state_properties": {
+  "stage": {
+   "type": "enum",
+   "values": [
+    "start",
+    "middle",
+    "end"
+   ]
+  }
+ },
+ "default_state": {
+  "stage": "start"
+ },
+ "properties": {
+  "hardness": 0.75,
+  "explosion_resistance": 0.75,
+  "sounds": "minecraft:short_grass"
+ }
+}

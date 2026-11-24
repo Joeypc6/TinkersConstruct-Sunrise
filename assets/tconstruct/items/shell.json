@@ -1,0 +1,118 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:dragon_scale"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_dragon_scale"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:knightly"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_knightmetal"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:kobold"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_cobalt"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:magnetite"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_steel"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nautilus"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_nautilus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:phantom"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_phantom"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:prismarine"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_prismarine"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:shulker"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_chorus"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:turtle"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/slime/leggings/shell_tconstruct_turtle"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/shell"
+  },
+  "transformation": {
+   "translation": [
+    0.0,
+    0.0625,
+    0.0
+   ],
+   "left_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "right_rotation": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  }
+ }
+}

@@ -1,0 +1,5 @@
+# Armor Upgrades
+
+Armor upgrades are typically effective on a single type of armor or are designed to run on counter attack. If applicable on multiple pieces, the effects typically interact in some way.
+
+Shield counterattack modifiers only work while blocking, but are otherwise twice as effective. Other shield modifiers work passively.

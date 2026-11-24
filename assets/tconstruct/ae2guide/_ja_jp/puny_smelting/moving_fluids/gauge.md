@@ -1,0 +1,11 @@
+# ゲージ
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_puny_smelting_moving_fluids_gauge.snbt" />
+</GameScene>
+
+<ItemImage id="tconstruct:copper_gauge" scale="2" />
+
+タンクの中にどれくらいの液体が入っているか知りたいと思ったことはありませんか？ゲージを使ってみましょう！ゲージを操作すると、ブロック内の液体の量が表示されます。
+
+黒曜石ゲージは、窓越しに内部の液面も確認できますが、タンクの中を見るのはそれほど難しくありません！

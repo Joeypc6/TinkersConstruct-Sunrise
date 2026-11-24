@@ -1,0 +1,9 @@
+# 그을린 탱크
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_mighty_smelting_smeltery_seared_tanks.snbt" />
+</GameScene>
+
+탱크는 녹은 액체나 연료를 저장하는 데 사용할 수 있다. 제련소에서 금속을 녹이고 싶다면 꼭 필요하다. 제련소에 설치하면, 안에 들어간 연료를 제련소에서 사용할 수 있다.
+
+탱크는 제련소의 바닥으로 사용할 수 없다.

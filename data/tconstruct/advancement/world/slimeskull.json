@@ -1,0 +1,119 @@
+{
+ "parent": "tconstruct:world/slimesuit",
+ "criteria": {
+  "blaze": {
+   "trigger": "minecraft:impossible"
+  },
+  "bone": {
+   "trigger": "minecraft:impossible"
+  },
+  "copper": {
+   "trigger": "minecraft:impossible"
+  },
+  "darkthread": {
+   "trigger": "minecraft:impossible"
+  },
+  "dragon_scale": {
+   "trigger": "minecraft:impossible"
+  },
+  "ender_pearl": {
+   "trigger": "minecraft:impossible"
+  },
+  "gold": {
+   "trigger": "minecraft:impossible"
+  },
+  "gunpowder": {
+   "trigger": "minecraft:impossible"
+  },
+  "ice": {
+   "trigger": "minecraft:impossible"
+  },
+  "iron": {
+   "trigger": "minecraft:impossible"
+  },
+  "knightmetal": {
+   "trigger": "minecraft:impossible"
+  },
+  "leather": {
+   "trigger": "minecraft:impossible"
+  },
+  "necrotic_bone": {
+   "trigger": "minecraft:impossible"
+  },
+  "pig_iron": {
+   "trigger": "minecraft:impossible"
+  },
+  "rose_gold": {
+   "trigger": "minecraft:impossible"
+  },
+  "string": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.world.slimeskull.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:slime_helmet"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.world.slimeskull.title"
+  }
+ },
+ "requirements": [
+  [
+   "gunpowder"
+  ],
+  [
+   "blaze"
+  ],
+  [
+   "leather"
+  ],
+  [
+   "iron"
+  ],
+  [
+   "copper"
+  ],
+  [
+   "string"
+  ],
+  [
+   "darkthread"
+  ],
+  [
+   "bone"
+  ],
+  [
+   "ice"
+  ],
+  [
+   "necrotic_bone"
+  ],
+  [
+   "gold"
+  ],
+  [
+   "rose_gold"
+  ],
+  [
+   "pig_iron"
+  ],
+  [
+   "ender_pearl"
+  ],
+  [
+   "dragon_scale"
+  ],
+  [
+   "knightmetal"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

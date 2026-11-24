@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "lfl",
+  "c c",
+  "l l"
+ ],
+ "key": {
+  "c": "minecraft:copper_ingot",
+  "f": "minecraft:flint",
+  "l": "minecraft:leather"
+ },
+ "result": {
+  "id": "tconstruct:travelers_leggings",
+  "count": 1,
+  "components": {
+   "tconstruct:materials": [
+    "tconstruct:copper",
+    "tconstruct:leather"
+   ]
+  }
+ }
+}

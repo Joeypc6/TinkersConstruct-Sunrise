@@ -1,0 +1,3 @@
+# Modificadores de Protección
+
+Estos modificadores aumentan la resistencia contra un tipo de daño específico. Todas las fuentes de daño deberían encajar en uno de los cinco tipos; puedes combinarlos libremente en armaduras y escudos para obtener protección pasiva.

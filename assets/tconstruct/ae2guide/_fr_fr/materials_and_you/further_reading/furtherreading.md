@@ -1,0 +1,5 @@
+# Pour Aller Plus Loin
+
+Maintenant que tu maîtrises les bases du bricolage, prends le temps d’appliquer ce que tu as appris et de créer quelques outils simples. Une fois à l’aise avec les fondamentaux, tu pourras lire les ouvrages de certains de mes collègues qui couvrent des sujets plus avancés.
+
+Un conseil pour gérer ces livres : comme la plupart d’entre nous n’avons que deux bras, pense à utiliser un pupitre pour garder tes livres à portée de main près de ton établi.

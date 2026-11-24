@@ -1,0 +1,5 @@
+# Mejoras Sin Ranuras
+
+¿Te quedaste sin espacio? Pues buenas noticias: todas las mejoras en esta sección no necesitan ranuras para aplicarse. ¡Incluso algunas podrían darte más espacio!
+
+Es 'slotless'. No necesitas ranuras de habilidad ni de mejora. ¿Qué más quieres? ¿Unas galletitas?

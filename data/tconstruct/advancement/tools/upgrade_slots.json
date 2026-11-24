@@ -1,0 +1,29 @@
+{
+ "parent": "tconstruct:tools/modified",
+ "criteria": {
+  "has_modified": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.tools.upgrade_slots.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "icon": {
+   "id": "minecraft:writable_book"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.tools.upgrade_slots.title"
+  }
+ },
+ "requirements": [
+  [
+   "has_modified"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

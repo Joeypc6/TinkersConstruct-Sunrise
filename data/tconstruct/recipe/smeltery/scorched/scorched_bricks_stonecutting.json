@@ -1,0 +1,8 @@
+{
+ "type": "minecraft:stonecutting",
+ "count": 1,
+ "ingredient": "#tconstruct:horizon/ingredient_3",
+ "result": {
+  "id": "tconstruct:scorched_bricks"
+ }
+}

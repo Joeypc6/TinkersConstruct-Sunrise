@@ -1,0 +1,16 @@
+{
+ "criteria": {
+  "has_armor": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "requirements": [
+  [
+   "has_armor"
+  ]
+ ],
+ "rewards": {
+  "function": "tconstruct:grant_advancement/story_shiny_gear"
+ },
+ "sends_telemetry_event": false
+}

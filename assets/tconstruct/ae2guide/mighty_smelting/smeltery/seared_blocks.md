@@ -1,0 +1,7 @@
+# Seared Blocks
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_smeltery.snbt" />
+</GameScene>
+
+These blocks can be used for any part of the smeltery, as floors or walls. They are also useful for decorating your base.

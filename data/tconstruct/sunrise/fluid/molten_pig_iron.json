@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/alloy/pig_iron/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

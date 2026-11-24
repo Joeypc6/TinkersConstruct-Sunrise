@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_copper_can/fluid_glow3",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/slime/magma/still"
+ }
+}

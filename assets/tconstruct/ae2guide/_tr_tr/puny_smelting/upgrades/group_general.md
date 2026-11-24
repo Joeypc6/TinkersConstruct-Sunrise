@@ -1,0 +1,5 @@
+# Genel Yükseltmeler
+
+Yükseltmeler araçlara tarifleriyle eklenen değiştiricilerdir. Her aracın başlangıçta sınırlı sayıda yükseltme yuvası vardır gerçi yuva sayısı az bir yolla artırılabilir.
+
+Genel yükseltmeler herhangi bir araçta iyi çalışır! Bu yükseltmeler aracın saldırı hasarını, çıkarım hızını, dayanıklılığını ve dahasını artırarak onu her yerinden iyileştirir!

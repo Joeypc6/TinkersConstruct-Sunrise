@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "group": "tconstruct:queens_slime_ingot",
+ "ingredients": [
+  "tconstruct:queens_slime_block"
+ ],
+ "result": {
+  "id": "tconstruct:queens_slime_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/armor/travelers/shield/wood",
+  "layer1": "tconstruct:item/tool/armor/travelers/shield/cuirass"
+ }
+}

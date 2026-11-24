@@ -1,0 +1,9 @@
+[package]
+name = "mod-tconstruct"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# The pinned SDK's API crate (`cargo sunrise-mod` fetches it into .sunrise/sdk/). Until Sunrise
+# publishes one, .sunrise/sdk/api is a link to a local sunrise-org/sunrise checkout.
+sunrise-mod-api = { path = ".sunrise/sdk/api/crates/sunrise-mod-api" }

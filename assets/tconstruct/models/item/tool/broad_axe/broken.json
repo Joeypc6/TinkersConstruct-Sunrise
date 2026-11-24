@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/broad_axe/blade_broken",
+  "layer1": "tconstruct:item/tool/broad_axe/handle",
+  "layer2": "tconstruct:item/tool/broad_axe/back_broken",
+  "layer3": "tconstruct:item/tool/broad_axe/binding",
+  "layer4": "tconstruct:item/tool/broad_axe/large/blade_broken",
+  "layer5": "tconstruct:item/tool/broad_axe/large/handle",
+  "layer6": "tconstruct:item/tool/broad_axe/large/back_broken",
+  "layer7": "tconstruct:item/tool/broad_axe/large/binding"
+ }
+}

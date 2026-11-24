@@ -1,0 +1,3 @@
+# General
+
+Los modificadores generales sin ranura proporcionan efectos especiales, pero no requieren ninguna ranura de mejora o de habilidad.

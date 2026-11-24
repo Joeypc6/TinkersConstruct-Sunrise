@@ -1,0 +1,5 @@
+# Mighty Smelting
+
+So you survived this far fellow Tinker, perhaps you are smarter than I believed. Well then let's take that puny melter and those puny metals and make them even stronger.
+
+I hope you are ready fellow Tinker, this is going to get really advanced really fast.

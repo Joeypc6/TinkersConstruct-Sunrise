@@ -1,0 +1,5 @@
+# Harvest Abilities
+
+Harvest crops with ease! Er wrong type of harvest... These abilities can help you harvest blocks better in special situations!
+
+These abilities can be used to expand your power of harvesting by allowing harvesting in unique ways.

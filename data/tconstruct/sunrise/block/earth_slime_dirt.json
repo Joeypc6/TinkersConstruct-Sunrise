@@ -1,0 +1,8 @@
+{
+ "template": "minecraft:dirt",
+ "properties": {
+  "hardness": 1.9,
+  "explosion_resistance": 1.9,
+  "sounds": "minecraft:slime_block"
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/melting_pan/head",
+  "layer1": "tconstruct:item/tool/melting_pan/overlay_charged",
+  "layer2": "tconstruct:item/tool/melting_pan/handle"
+ }
+}

@@ -1,0 +1,7 @@
+# 용해소 관리기
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_foundry.snbt" />
+</GameScene>
+
+타오른 벽돌에 블록 1개만큼의 흑요석을 부으면 환상적인 용해소의 관리기가 만들어집니다.

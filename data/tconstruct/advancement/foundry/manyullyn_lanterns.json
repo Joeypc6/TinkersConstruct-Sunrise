@@ -1,0 +1,33 @@
+{
+ "parent": "tconstruct:foundry/structure",
+ "criteria": {
+  "scorched_lantern": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_lantern": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.foundry.manyullyn_lanterns.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:scorched_lantern"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.foundry.manyullyn_lanterns.title"
+  }
+ },
+ "requirements": [
+  [
+   "seared_lantern",
+   "scorched_lantern"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

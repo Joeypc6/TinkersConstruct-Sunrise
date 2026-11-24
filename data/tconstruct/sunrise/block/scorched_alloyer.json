@@ -1,0 +1,42 @@
+{
+ "template": "minecraft:stone",
+ "properties": {
+  "hardness": 9.0,
+  "explosion_resistance": 35.0,
+  "sounds": "minecraft:basalt",
+  "requires_tool": true,
+  "occludes": false
+ },
+ "state_properties": {
+  "facing": {
+   "type": "enum",
+   "values": [
+    "north",
+    "south",
+    "west",
+    "east"
+   ]
+  },
+  "in_structure": {
+   "type": "boolean"
+  },
+  "active": {
+   "type": "boolean"
+  }
+ },
+ "default_state": {
+  "in_structure": "false",
+  "active": "false",
+  "facing": "north"
+ },
+ "state_light": {
+  "properties": [
+   "active"
+  ],
+  "values": {
+   "true": 13,
+   "false": 0
+  },
+  "default": 0
+ }
+}

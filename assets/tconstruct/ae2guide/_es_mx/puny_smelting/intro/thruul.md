@@ -1,0 +1,7 @@
+# Fundición insignificante
+
+¡Muy bien! Ahora que terminaste con esos materiales debiluchos que Selena te recomendó, es hora de usar MATERIALES DE VERDAD COMO LOS QUE USO YO: ¡METAL!
+
+Obviamente jamás serás tan genial y fuerte como el único §lTHRUUL M'GON§r, pero un novato como tú puede aprender a subir la temperatura.
+
+¿Quieres seguir aprendiendo? ¡En mi próximo libro te enseñaré más! Solo vierte piedra chamuscada sobre un libro cuando tengas tu fundidor.

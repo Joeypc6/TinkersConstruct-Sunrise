@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid_glow11",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/ore/amethyst/still"
+ }
+}

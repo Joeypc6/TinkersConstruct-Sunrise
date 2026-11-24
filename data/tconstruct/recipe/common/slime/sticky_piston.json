@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "redstone",
+ "conditions": [
+  {
+   "type": "tconstruct:config",
+   "prop": "slime_recipe_fix"
+  }
+ ],
+ "key": {
+  "#": "#c:slimeballs",
+  "P": "minecraft:piston"
+ },
+ "pattern": [
+  "#",
+  "P"
+ ],
+ "result": {
+  "id": "minecraft:sticky_piston"
+ },
+ "show_notification": true
+}

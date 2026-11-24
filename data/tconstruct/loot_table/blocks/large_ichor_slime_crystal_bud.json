@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "bonus_rolls": 0.0,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "tconstruct:large_ichor_slime_crystal_bud"
+    }
+   ],
+   "rolls": 1.0,
+   "condition": "minecraft:tool/can_silk_touch"
+  }
+ ],
+ "random_sequence": "tconstruct:blocks/large_ichor_slime_crystal_bud"
+}

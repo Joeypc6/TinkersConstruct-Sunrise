@@ -1,0 +1,9 @@
+{
+ "replace": false,
+ "values": [
+  "tconstruct:scorched_stone",
+  "tconstruct:polished_scorched_stone",
+  "tconstruct:scorched_bricks",
+  "tconstruct:scorched_road"
+ ]
+}

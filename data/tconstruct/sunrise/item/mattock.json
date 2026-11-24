@@ -1,0 +1,16 @@
+{
+ "template": "minecraft:paper",
+ "max_stack_size": 1,
+ "components": {
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#tconstruct:mineable/mattock",
+     "correct_for_drops": true
+    }
+   ],
+   "default_mining_speed": 1.0,
+   "damage_per_block": 0
+  }
+ }
+}

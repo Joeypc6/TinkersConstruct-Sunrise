@@ -1,0 +1,3 @@
+# Cosmetic
+
+These modifiers make your tool look nicer, or uglier. I won't judge.

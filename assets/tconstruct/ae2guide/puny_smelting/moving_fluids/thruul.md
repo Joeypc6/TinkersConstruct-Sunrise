@@ -1,0 +1,5 @@
+# Thruul
+
+![](tconstruct:book/thruul.png)
+
+WHAT ARE YOU LOOKING AT TINKER? NEVER SEEN SOMEONE AS HANDSOME AND COOL?

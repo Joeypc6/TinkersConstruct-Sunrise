@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "group": "sign",
+ "key": {
+  "#": "tconstruct:enderbark_planks",
+  "X": "#c:rods/wooden"
+ },
+ "pattern": [
+  "###",
+  "###",
+  " X "
+ ],
+ "result": {
+  "id": "tconstruct:enderbark_sign",
+  "count": 3
+ },
+ "show_notification": true
+}

@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/alloy/queens_slime/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

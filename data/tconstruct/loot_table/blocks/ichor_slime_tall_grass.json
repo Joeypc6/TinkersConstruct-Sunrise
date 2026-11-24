@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "bonus_rolls": 0.0,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "tconstruct:ichor_slime_tall_grass"
+    }
+   ],
+   "rolls": 1.0,
+   "condition": "minecraft:tool/can_shear"
+  }
+ ],
+ "random_sequence": "tconstruct:blocks/ichor_slime_tall_grass"
+}

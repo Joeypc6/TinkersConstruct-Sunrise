@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_copper_can/fluid_glow10",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/alloy/pig_iron/still"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "template": "minecraft:slime_block",
+ "properties": {
+  "hardness": 0.5,
+  "explosion_resistance": 0.5,
+  "friction": 0.5,
+  "light": 10
+ },
+ "collision_shapes": {
+  "default": [
+   [
+    0.0625,
+    0,
+    0.0625,
+    0.9375,
+    0.9375,
+    0.9375
+   ]
+  ]
+ }
+}

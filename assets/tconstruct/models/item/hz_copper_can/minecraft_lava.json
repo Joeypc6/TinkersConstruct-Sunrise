@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_copper_can/fluid_glow15",
+ "textures": {
+  "fluid": "minecraft:block/lava_still"
+ }
+}

@@ -1,0 +1,7 @@
+# Modificateurs Défensifs
+
+<ItemImage id="tconstruct:creative_slot" scale="2" />
+
+Les modificateurs défensifs sont un type de modificateur exclusif à l’armure, améliorant la protection contre certaines menaces comme le feu ou le recul. Ils offrent une autre manière de personnaliser l’armure, car la plupart des types d’armures n’ont pas de caractéristiques de matériau.En général, les armures disposant de nombreux emplacements de défense commencent avec moins d’emplacements d’amélioration, ce qui signifie que la fonctionnalité est sacrifiée au profit de la protection.
+
+*Fonderie Suprême* contient également une liste complète des modificateurs défensifs disponibles pour les outils, tout comme l’Encyclopédie du Bricolage.

@@ -1,0 +1,7 @@
+# 黏液种子
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_exploration_grass_seeds.snbt" />
+</GameScene>
+
+我在探索地牢或下界要塞时，偶尔在箱子里翻出过这种黏液种子。我不知道这种子是谁放进 去的，只知道这些黏液种子可以种进普通泥土 或黏液泥土里，让它们长出黏液草，就像是你 从一个岛屿上把它们移来的一样。我还从那些 箱子里收获了一些黏液树苗，如此说来，也许 无需造访哪怕一个黏液岛屿，也能集齐全部种 类的黏液树苗。

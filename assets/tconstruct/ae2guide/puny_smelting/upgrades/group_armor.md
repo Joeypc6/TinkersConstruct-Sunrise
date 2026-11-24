@@ -1,0 +1,3 @@
+# Armor Upgrades
+
+Armor upgrades provide ways to modify your jump, speed, and other such factors on armor and shields.

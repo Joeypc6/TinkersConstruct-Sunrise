@@ -1,0 +1,7 @@
+# 熔铸炉
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_foundry.snbt" />
+</GameScene>
+
+真正的工匠大师则会以逸待劳，直接在烈焰人周围搭一座熔铸炉。这样只要加入燃料就可以 了，而那些蠢家伙们只会在意识到发生了什么 前就被熔化了。你要是真打算这么干的话，我 倒觉得简单一点的冶炼炉应该就够用了。

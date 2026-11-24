@@ -1,0 +1,3 @@
+# Protection Defense Modifiers
+
+Protection defense modifiers increase resistance to a particular type of damage. All damage sources should fit into one of the five types, and types can be freely mixed on armor and shields for passive benefits.

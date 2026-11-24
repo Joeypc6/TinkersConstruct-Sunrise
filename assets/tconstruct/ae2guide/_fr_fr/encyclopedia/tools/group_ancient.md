@@ -1,0 +1,5 @@
+# Outils Anciens
+
+Les outils anciens ne peuvent pas être fabriqués, ils se trouvent plutôt dans le monde en butin ou sont achetés auprès des marchands ambulants. Leurs matériaux sont aléatoires et ne peuvent pas être changés via l’échange de pièces.
+
+Les outils anciens ont typiquement 2 matériaux issus de deux classes d’outils différentes (par exemple, mêlée et à distance). De plus, ils bénéficient d’effets renforcés grâce au modificateur rééquilibré.

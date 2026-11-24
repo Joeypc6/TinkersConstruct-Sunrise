@@ -1,0 +1,18 @@
+{
+ "template": "minecraft:paper",
+ "max_stack_size": 1,
+ "components": {
+  "minecraft:blocks_attacks": {
+   "block_delay_seconds": 0.25,
+   "damage_reductions": [
+    {
+     "base": 0.0,
+     "factor": 1.0,
+     "horizontal_blocking_angle": 45.0
+    }
+   ],
+   "block_sound": "minecraft:item.shield.block",
+   "disabled_sound": "minecraft:item.shield.break"
+  }
+ }
+}

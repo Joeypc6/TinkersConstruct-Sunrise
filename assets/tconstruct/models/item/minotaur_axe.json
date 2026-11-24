@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/minotaur_axe/front",
+  "layer1": "tconstruct:item/tool/minotaur_axe/back",
+  "layer2": "tconstruct:item/tool/pickaxe/handle"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "variants": {
+  "rotation=0": {
+   "model": "tconstruct:block/head/husk_0"
+  },
+  "rotation=1": {
+   "model": "tconstruct:block/head/husk_1"
+  },
+  "rotation=2": {
+   "model": "tconstruct:block/head/husk_2"
+  },
+  "rotation=3": {
+   "model": "tconstruct:block/head/husk_3"
+  },
+  "rotation=4": {
+   "model": "tconstruct:block/head/husk_4"
+  },
+  "rotation=5": {
+   "model": "tconstruct:block/head/husk_5"
+  },
+  "rotation=6": {
+   "model": "tconstruct:block/head/husk_6"
+  },
+  "rotation=7": {
+   "model": "tconstruct:block/head/husk_7"
+  },
+  "rotation=8": {
+   "model": "tconstruct:block/head/husk_8"
+  },
+  "rotation=9": {
+   "model": "tconstruct:block/head/husk_9"
+  },
+  "rotation=10": {
+   "model": "tconstruct:block/head/husk_10"
+  },
+  "rotation=11": {
+   "model": "tconstruct:block/head/husk_11"
+  },
+  "rotation=12": {
+   "model": "tconstruct:block/head/husk_12"
+  },
+  "rotation=13": {
+   "model": "tconstruct:block/head/husk_13"
+  },
+  "rotation=14": {
+   "model": "tconstruct:block/head/husk_14"
+  },
+  "rotation=15": {
+   "model": "tconstruct:block/head/husk_15"
+  }
+ }
+}

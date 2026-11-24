@@ -1,0 +1,5 @@
+# Herramientas antiguas
+
+Las herramientas antiguas no se pueden fabricar; en su lugar, se encuentran en el mundo como botín o se compran a comerciantes errantes. Sus materiales son aleatorios y no se pueden cambiar mediante el intercambio de piezas.
+
+Las herramientas antiguas suelen tener 2 materiales de dos clases diferentes de herramientas (por ejemplo, cuerpo a cuerpo y a distancia). Además, obtienen efectos más potentes del modificador reequilibrado (rebalanced).

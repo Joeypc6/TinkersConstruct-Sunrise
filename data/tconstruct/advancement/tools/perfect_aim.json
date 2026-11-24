@@ -1,0 +1,29 @@
+{
+ "parent": "tconstruct:tools/tinker_tool",
+ "criteria": {
+  "accuracy": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.tools.perfect_aim.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "icon": {
+   "id": "minecraft:target"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.tools.perfect_aim.title"
+  }
+ },
+ "requirements": [
+  [
+   "accuracy"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

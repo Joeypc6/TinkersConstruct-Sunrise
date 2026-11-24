@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/longbow/limb_bottom_1",
+  "layer1": "tconstruct:item/tool/longbow/limb_top_1",
+  "layer2": "tconstruct:item/tool/longbow/grip",
+  "layer3": "tconstruct:item/tool/longbow/bowstring_1",
+  "layer4": "tconstruct:item/tool/longbow/large/limb_bottom_1",
+  "layer5": "tconstruct:item/tool/longbow/large/limb_top_1",
+  "layer6": "tconstruct:item/tool/longbow/large/grip",
+  "layer7": "tconstruct:item/tool/longbow/large/bowstring_1"
+ }
+}

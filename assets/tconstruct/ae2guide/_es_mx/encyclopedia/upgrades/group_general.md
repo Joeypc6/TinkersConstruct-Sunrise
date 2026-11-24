@@ -1,0 +1,5 @@
+# Mejoras Generales
+
+Los modificadores generales son efectivos en múltiples tipos de herramientas, incluyendo herramientas de cuerpo a cuerpo y de recolección, así como en armaduras.
+
+Algunos modificadores son exclusivos para cuerpo a cuerpo y recolección, así que consulta la lista de herramientas mostrada.

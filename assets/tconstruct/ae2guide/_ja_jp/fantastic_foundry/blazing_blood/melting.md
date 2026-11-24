@@ -1,0 +1,12 @@
+# Melting
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_foundry.snbt" />
+</GameScene>
+
+鋳造炉は携帯性が悪い？あなたの道具を携帯鋳造炉に変えてみてください。Thruulは賢いので、もしかしたら価値のあるものを作ってくれるかもしれません。
+
+- 攻撃したMobを溶融させて道具のタンクに入れる
+- 可能であればドロップアイテムも溶融させる
+- 道具をタンクまたは乾式精錬炉などに使うと中身を移せる
+- アビリティスロットが1つ必要で、1回のみ適用できる

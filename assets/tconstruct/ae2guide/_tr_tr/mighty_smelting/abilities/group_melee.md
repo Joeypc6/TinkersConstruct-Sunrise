@@ -1,0 +1,5 @@
+# Yakın Menzilli Yetenekleri
+
+Bu yeteneklerle belki silahların en güçlüsünü yapabilirsin. Elbette hangi silahı seçeceğin sana kalmış.
+
+Bu yetenekler silahlarına ek yakın menzilli etkiler sağlar veya genel saldırı oranını artırır. Bunların bazıları yumruklamanın etkililiğini artırmak için göğüslük üzerinde de çalışır.

@@ -1,0 +1,5 @@
+# Extraction d’Amélioration
+
+<Recipe id="tconstruct:tools/modifiers/worktable/extract/upgrade" />
+
+Cette découverte m’a conduit à expérimenter davantage avec d’autres cristaux et enchantements. Il s’avère que l’on peut extraire des modificateurs d’amélioration depuis des livres enchantés ou des outils à l’aide de cristaux de céletslime et de lapis. Cependant, le processus semble beaucoup moins stable que la méthode à base d’enderslime — je n’ai pas réussi à récupérer l’outil.

@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/war_pick/limb",
+  "layer1": "tconstruct:item/tool/war_pick/body",
+  "layer2": "tconstruct:item/tool/war_pick/bowstring_2"
+ }
+}

@@ -1,0 +1,14 @@
+# 特性
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_foundry.snbt" />
+</GameScene>
+
+- 從礦石中獲得副產物
+- 熔鑄爐無法進行合金——這是飛躍性的進步， 你不必擔心不小心把材料混到一起了
+- 可容納多種金屬材料
+- 儲量可拓展
+- 儲量可比什麼低階的冶煉爐大得多
+- 可以熔鍊有多種產出的方塊
+- 燃料效率取決於大小
+- 對於純地獄生存以及大量多種流體的儲存 十分有用

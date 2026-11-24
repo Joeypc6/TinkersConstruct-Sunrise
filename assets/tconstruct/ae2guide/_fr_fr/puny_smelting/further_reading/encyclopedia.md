@@ -1,0 +1,5 @@
+# Encyclopédie du Bricolage
+
+<ItemImage id="tconstruct:encyclopedia" scale="2" />
+
+Apparemment, certains bricoleurs en herbe n'ont pas assez de bras pour fabriquer des outils et tenir mes deux livres. Si seulement vous aviez quatre bras comme moi, ce ne serait pas un problème ! Heureusement pour vous les intellos, avec juste un peu d'or en fusion, vous pouvez fabriquer le nouveau livre de Selena, qui contient toutes les infos nécessaires sur la fabrication d'outils. Ne comptez pas y trouver quoi que ce soit sur mon génial haut fourneau cependant.

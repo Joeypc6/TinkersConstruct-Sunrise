@@ -1,0 +1,14 @@
+# 특징
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_puny_smelting_melter_features.snbt" />
+  <IsometricCamera yaw="45" pitch="30" />
+</GameScene>
+
+- 제련소의 시작이다
+- 광석 당 조각 3개만큼의 광물을 추가로 획득할 수 있다
+- 가열기 대신 그을린 탱크를 사용하면, 온도를 높일 수 있다
+- 주괴 24개만큼의 용량을 가지고 있다
+- 한 번에 3가지 아이템을 녹일 수 있다
+- 연료의 효율성이 매우 높다
+- 금 검이나 금 갑옷과 같은 피글린이 떨어뜨린 아이템을 녹이는 데 적합하다

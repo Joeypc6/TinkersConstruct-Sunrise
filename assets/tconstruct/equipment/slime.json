@@ -1,0 +1,20 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "tconstruct:slime_0"
+   },
+   {
+    "texture": "tconstruct:slime_1"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "tconstruct:slime_0"
+   },
+   {
+    "texture": "tconstruct:slime_1"
+   }
+  ]
+ }
+}

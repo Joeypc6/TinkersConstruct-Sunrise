@@ -1,0 +1,5 @@
+# Escamas de Dragão
+
+<ItemImage id="tconstruct:dragon_scale" scale="2" />
+
+Se você conseguir atingir o dragão ender com a força de uma explosão, ele poderá derrubar uma de suas escamas. Foi-me informado que a maneira mais fácil de fazer isso é quebrar um cristal do end enquanto ele cura o dragão, embora a TNT também possa ser eficaz. Até agora, não tive sucesso em obter uma escama, mas ouvi dizer que, quando conseguiu, Thruul encontrou uma maneira de usá-la para tornar as ferramentas mais poderosas.

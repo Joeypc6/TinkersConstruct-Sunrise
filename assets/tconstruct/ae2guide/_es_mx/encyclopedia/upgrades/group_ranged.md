@@ -1,0 +1,3 @@
+# Mejoras de Distancia
+
+Las mejoras de distancia pueden aplicarse a arcos largos y ballestas para potenciar tanto el arco como las flechas disparadas.

@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "redstone",
+ "group": "wooden_door",
+ "key": {
+  "#": "tconstruct:enderbark_planks"
+ },
+ "pattern": [
+  "##",
+  "##",
+  "##"
+ ],
+ "result": {
+  "id": "tconstruct:enderbark_door",
+  "count": 3
+ },
+ "show_notification": true
+}

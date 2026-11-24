@@ -1,0 +1,63 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "bonus_rolls": 0.0,
+   "entries": [
+    {
+     "type": "minecraft:alternatives",
+     "children": [
+      {
+       "type": "minecraft:item",
+       "name": "tconstruct:steel_cluster",
+       "condition": "minecraft:tool/can_silk_touch"
+      },
+      {
+       "type": "minecraft:alternatives",
+       "children": [
+        {
+         "type": "minecraft:item",
+         "name": "tconstruct:steel_shard",
+         "condition": {
+          "type": "minecraft:match_tool",
+          "predicate": {
+           "items": "#minecraft:cluster_max_harvestables"
+          }
+         },
+         "modifier": [
+          {
+           "type": "minecraft:set_count",
+           "add": false,
+           "count": 4.0
+          },
+          {
+           "type": "minecraft:apply_bonus",
+           "enchantment": "minecraft:fortune",
+           "formula": "minecraft:ore_drops"
+          }
+         ]
+        },
+        {
+         "type": "minecraft:item",
+         "name": "tconstruct:steel_shard",
+         "modifier": [
+          {
+           "type": "minecraft:set_count",
+           "add": false,
+           "count": 2.0
+          },
+          {
+           "type": "minecraft:explosion_decay"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "rolls": 1.0
+  }
+ ],
+ "random_sequence": "tconstruct:blocks/steel_cluster"
+}

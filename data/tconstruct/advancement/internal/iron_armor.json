@@ -1,0 +1,16 @@
+{
+ "criteria": {
+  "has_armor": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "requirements": [
+  [
+   "has_armor"
+  ]
+ ],
+ "rewards": {
+  "function": "tconstruct:grant_advancement/story_obtain_armor"
+ },
+ "sends_telemetry_event": false
+}

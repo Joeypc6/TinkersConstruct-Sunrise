@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/vein_hammer/head_broken",
+  "layer1": "tconstruct:item/tool/vein_hammer/handle",
+  "layer2": "tconstruct:item/tool/vein_hammer/grip",
+  "layer3": "tconstruct:item/tool/vein_hammer/front_broken",
+  "layer4": "tconstruct:item/tool/vein_hammer/large/head_broken",
+  "layer5": "tconstruct:item/tool/vein_hammer/large/handle",
+  "layer6": "tconstruct:item/tool/vein_hammer/large/grip",
+  "layer7": "tconstruct:item/tool/vein_hammer/large/front_broken"
+ }
+}

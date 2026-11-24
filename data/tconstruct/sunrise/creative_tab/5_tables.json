@@ -1,0 +1,20 @@
+{
+ "title": "itemGroup.tconstruct.tables",
+ "icon": "tconstruct:tinkers_anvil",
+ "items": [
+  "tconstruct:tinkers_anvil",
+  "tconstruct:scorched_anvil",
+  "tconstruct:crafting_station",
+  "tconstruct:part_builder",
+  "tconstruct:tinker_station",
+  "tconstruct:modifier_worktable",
+  "tconstruct:smeltery_controller",
+  "tconstruct:seared_drain",
+  "tconstruct:seared_duct",
+  "tconstruct:seared_chute",
+  "tconstruct:foundry_controller",
+  "tconstruct:scorched_drain",
+  "tconstruct:scorched_duct",
+  "tconstruct:scorched_chute"
+ ]
+}

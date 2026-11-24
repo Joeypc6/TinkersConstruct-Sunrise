@@ -1,0 +1,3 @@
+# Cosmético
+
+Los modificadores cosméticos alteran la apariencia de tu herramienta, pero no afectan a su funcionalidad.

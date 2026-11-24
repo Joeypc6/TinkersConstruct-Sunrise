@@ -1,0 +1,5 @@
+# Materials & You
+
+Welcome to the third edition of Materials & You: Surviving the first day and beyond. Unlike the second edition, this book focuses in on tool crafting and tool types, and leaves topics such as modifiers to Further Reading.
+
+If you are wondering about the changes in the newest version, check the "What's New" page, linked from GitHub or on the SlimeKnights Discord. Sadly I couldn't figure out links so I can't link them to you

@@ -1,0 +1,5 @@
+# Modificadores Sem Slot
+
+Ficou sem slots? Bem, boas notícias: todos os modificadores desta seção não precisam de slots para serem aplicados — talvez alguns até podem conceder mais slots!
+
+É sem slot. Você não precisa de um slot de habilidade ou melhoria para aplicá-lo. Quer mais o quê? Biscoitos?

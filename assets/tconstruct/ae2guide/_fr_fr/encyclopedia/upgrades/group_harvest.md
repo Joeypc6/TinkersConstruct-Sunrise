@@ -1,0 +1,3 @@
+# Améliorations de Récolte
+
+Les modificateurs de récolte sont particulièrement utiles sur les outils qui cassent des blocs, comme les pioches ou les pelles.

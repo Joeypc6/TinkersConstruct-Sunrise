@@ -1,0 +1,57 @@
+{
+ "parent": "tconstruct:foundry/structure",
+ "criteria": {
+  "scorched_fuel_gauge": {
+   "trigger": "minecraft:impossible"
+  },
+  "scorched_fuel_tank": {
+   "trigger": "minecraft:impossible"
+  },
+  "scorched_ingot_gauge": {
+   "trigger": "minecraft:impossible"
+  },
+  "scorched_ingot_tank": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_fuel_gauge": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_fuel_tank": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_ingot_gauge": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_ingot_tank": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.foundry.blaze.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:scorched_fuel_gauge"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.foundry.blaze.title"
+  }
+ },
+ "requirements": [
+  [
+   "seared_fuel_tank",
+   "seared_fuel_gauge",
+   "seared_ingot_tank",
+   "seared_ingot_gauge",
+   "scorched_fuel_tank",
+   "scorched_fuel_gauge",
+   "scorched_ingot_tank",
+   "scorched_ingot_gauge"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

@@ -1,0 +1,5 @@
+# Staffs
+
+Staffs are highly modifiable tools. While they lack any melee potential the make up for it the wide range of abilities they can use on both interaction and attacking. They notably grant 40% movement speed when using and allow blocking up to 15 damage with blocking.
+
+Staffs abilities can be configured using the modifier worktable.

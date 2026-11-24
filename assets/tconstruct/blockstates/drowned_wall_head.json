@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "tconstruct:block/head/drowned_wall_north"
+  },
+  "facing=south": {
+   "model": "tconstruct:block/head/drowned_wall_south"
+  },
+  "facing=west": {
+   "model": "tconstruct:block/head/drowned_wall_west"
+  },
+  "facing=east": {
+   "model": "tconstruct:block/head/drowned_wall_east"
+  }
+ }
+}

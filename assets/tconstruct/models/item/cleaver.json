@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/cleaver/head",
+  "layer1": "tconstruct:item/tool/cleaver/handle",
+  "layer2": "tconstruct:item/tool/cleaver/guard",
+  "layer3": "tconstruct:item/tool/cleaver/shield",
+  "layer4": "tconstruct:item/tool/cleaver/large/head",
+  "layer5": "tconstruct:item/tool/cleaver/large/handle",
+  "layer6": "tconstruct:item/tool/cleaver/large/guard",
+  "layer7": "tconstruct:item/tool/cleaver/large/shield"
+ }
+}

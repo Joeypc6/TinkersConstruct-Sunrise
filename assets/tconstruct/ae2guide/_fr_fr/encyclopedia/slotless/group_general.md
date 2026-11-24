@@ -1,0 +1,3 @@
+# Général
+
+Les modificateurs sans emplacements généraux fournissent des effets spéciaux, mais ne nécessitent aucun emplacement d’amélioration ou d’aptitude.

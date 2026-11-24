@@ -1,0 +1,5 @@
+# Selena
+
+![](tconstruct:book/selena.png)
+
+I, Selena Arcadia Eodhan, Librarian of the Slime Crafter Guild and Leader of the Special Slimic Military Unit, wish all of you great skill in your studies and great fortune in the field.

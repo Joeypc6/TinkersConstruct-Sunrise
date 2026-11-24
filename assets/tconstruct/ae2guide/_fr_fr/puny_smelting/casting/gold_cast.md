@@ -1,0 +1,5 @@
+# Moules en Or
+
+<Recipe id="tconstruct:smeltery/casts/gold/pick_head" />
+
+Les moules en or sont réutilisables. Pour en créer un, versez simplement l'équivalent d'un lingot d'or en fusion sur une pièce d'outil placée dans une table de coulée. La pièce d'outil est consommée dans le processus.

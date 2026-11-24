@@ -1,0 +1,12 @@
+# 焦褐排液孔
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_fantastic_foundry_foundry_scorched_drain.snbt" />
+  <IsometricCamera yaw="45" pitch="30" />
+</GameScene>
+
+<ItemImage id="tconstruct:scorched_drain" scale="2" />
+
+焦褐排液孔是熔铸炉输入或输出流体的设备。可以用浇注口或者其他模组的管道抽取流体。 桶、铜罐和浇注道也能借此输入或输出流体。
+
+排液孔的中心位置会展示接下来排出的流体。

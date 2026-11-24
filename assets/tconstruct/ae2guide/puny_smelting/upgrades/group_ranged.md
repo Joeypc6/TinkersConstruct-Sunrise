@@ -1,0 +1,3 @@
+# Ranged Upgrades
+
+Ranged upgrades are good for bows, whether it's quicker firing, more damage, or freezing your enemies.

@@ -1,0 +1,7 @@
+# 切换交互操作
+
+<Recipe id="tconstruct:tools/modifiers/worktable/toggle_interaction_modifier" />
+
+拉杆不止能切换红石信号，它还能将黏液手杖或钓鱼竿上的强化在交互键触发与攻击键触发 间切换。
+
+读到这里，还不知道黏液手杖是什么东西吗？推荐去读书呆子Melvin写的手册。

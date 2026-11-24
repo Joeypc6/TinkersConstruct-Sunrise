@@ -1,0 +1,5 @@
+# Malzemeler ve Sen
+
+Malzemeler ve Sen'in üçüncü baskısına hoş geldiniz: İlk gün ve ötesinde yaşamda kalmak. İkinci baskının aksine, bu kitap araç üretimi ve araç türlerine odaklanır ve değiştiriciler gibi konuları İleri Okumalara bırakır.
+
+Eğer en yeni sürümdeki değişiklikleri merak ediyorsan Github veya SlimeKnights Discord'u üzerindeki bağlantıdan "What's New" sayfasına bakabilirsiniz. Ne yazık ki bağlantıları çözemedim bu yüzden sana bağlayamıyorum

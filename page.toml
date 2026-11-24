@@ -1,0 +1,42 @@
+name = "Tinkers' Construct (Early Access)"
+summary = "Early Access: melt metals in a smeltery, cast tool parts, and build tools you can upgrade with modifiers."
+description = """
+**Early Access.** This is an early access port: most of the mod works and is tested, but some parts are missing or untested (listed below). Please report what you find on the [issue tracker](https://github.com/Joeypc6/TinkersConstruct-Sunrise/issues).
+
+Melt ores and metals in a smeltery, cast them into tool parts, and build tools, weapons and armor you can upgrade with modifiers.
+
+A port of [Tinkers' Construct](https://github.com/SlimeKnights/TinkersConstruct) by SlimeKnights (mDiyo, boni, KnightMiner and contributors), and the parts of [Mantle](https://github.com/SlimeKnights/Mantle) it uses, to [Sunrise](https://playsunrise.net) (Minecraft Java 26.3), under the original's licence (MIT, in `LICENSE`; see `NOTICE`). One native mod on Sunrise's mod API; the code is a rewrite that follows the original 1.20.1-3.12.1.231 release, and its textures, models, recipes, books and language files are the original's.
+
+What it does:
+
+- **Smeltery:** the melter and heater, tanks, faucets, channels, casting tables and basins; the smeltery and foundry multiblocks with their drains, ducts and chutes, melting, alloying and entity melting.
+- **Tools:** the crafting station, part builder, tinker station and anvils; tools, bows and armor built from material parts, with each material's stats and traits.
+- **Modifiers:** upgrades and abilities added at the tinker station, with slots and levels, and the modifier worktable to remove, extract and rearrange them.
+- **World:** slime islands in the sky, the sea and the End, slime trees and their tinted grass and leaves, cobalt ore and the geodes.
+- **Gadgets and food:** glow balls, shurikens, EFLN, punji sticks, platforms, and the cakes with their effects.
+- Optional: JEI shows melting, alloying, casting, part building and modifier recipes, and the `guideme` library adds the W guide.
+
+Known gaps:
+
+- The piggyback pack can't seat a mob yet.
+- Double jump is untested.
+- A few armor modifiers (depth and recurrent protection, and those that depend on the attacker), the armor keys and the zoom are not ported yet.
+- Some fluid effects on tools (placing and breaking blocks, explosions, clouds) are not ported yet.
+- The port's README lists the remaining gaps in detail.
+"""
+authors = ["Sunrise port: Joeypc6", "SlimeKnights", "mDiyo", "boni", "KnightMiner"]
+homepage = "https://github.com/Joeypc6/TinkersConstruct-Sunrise"
+issues = "https://github.com/Joeypc6/TinkersConstruct-Sunrise/issues"
+categories = ["technology", "equipment", "worldgen"]
+
+[[screenshots]]
+path = "page/1-smeltery.png"
+caption = "A formed smeltery full of lava, seen from above."
+
+[[screenshots]]
+path = "page/2-tinker-station.png"
+caption = "Building a pickaxe at the Tinker Station."
+
+[[screenshots]]
+path = "page/3-casting-jei.png"
+caption = "JEI's casting table recipes for Tinkers' Construct."

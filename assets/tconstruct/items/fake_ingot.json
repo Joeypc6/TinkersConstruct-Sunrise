@@ -1,0 +1,130 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:aluminum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_aluminum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bronze"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_bronze"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:constantan"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_constantan"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:electrum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_electrum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:fiery"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_fiery_glow15"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:invar"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_invar"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:ironwood"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_ironwood"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:lead"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_lead"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nicrosil"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_nicrosil"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:osmium"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_osmium"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:pewter"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_pewter"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:silver"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_silver"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:steeleaf"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/parts/ingot_tconstruct_steeleaf"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/fake_ingot"
+  }
+ }
+}

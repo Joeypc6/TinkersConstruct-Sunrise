@@ -1,0 +1,7 @@
+{
+ "template": "minecraft:budding_amethyst",
+ "properties": {
+  "hardness": 1.5,
+  "explosion_resistance": 1.5
+ }
+}

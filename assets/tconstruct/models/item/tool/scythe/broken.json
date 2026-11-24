@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/scythe/head_broken",
+  "layer1": "tconstruct:item/tool/scythe/handle",
+  "layer2": "tconstruct:item/tool/scythe/binding",
+  "layer3": "tconstruct:item/tool/scythe/accessory",
+  "layer4": "tconstruct:item/tool/scythe/large/head_broken",
+  "layer5": "tconstruct:item/tool/scythe/large/handle",
+  "layer6": "tconstruct:item/tool/scythe/large/binding",
+  "layer7": "tconstruct:item/tool/scythe/large/accessory"
+ }
+}

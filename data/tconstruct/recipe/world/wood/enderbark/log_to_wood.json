@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "group": "bark",
+ "key": {
+  "#": "tconstruct:enderbark_log"
+ },
+ "pattern": [
+  "##",
+  "##"
+ ],
+ "result": {
+  "id": "tconstruct:enderbark_wood",
+  "count": 3
+ },
+ "show_notification": true
+}

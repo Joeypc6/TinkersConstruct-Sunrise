@@ -1,0 +1,41 @@
+{
+ "template": "minecraft:iron_block",
+ "properties": {
+  "hardness": 8.0,
+  "explosion_resistance": 28.0,
+  "sounds": "minecraft:iron_block",
+  "requires_tool": true
+ },
+ "state_properties": {
+  "facing": {
+   "type": "enum",
+   "values": [
+    "north",
+    "south",
+    "west",
+    "east"
+   ]
+  },
+  "active": {
+   "type": "boolean"
+  },
+  "in_structure": {
+   "type": "boolean"
+  }
+ },
+ "default_state": {
+  "active": "false",
+  "in_structure": "false",
+  "facing": "north"
+ },
+ "state_light": {
+  "properties": [
+   "active"
+  ],
+  "values": {
+   "true": 13,
+   "false": 0
+  },
+  "default": 0
+ }
+}

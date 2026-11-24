@@ -1,0 +1,5 @@
+# Écailles de Dragon
+
+<ItemImage id="tconstruct:dragon_scale" scale="2" />
+
+Si vous parvenez à frapper le dragon de l’End avec la force d’une explosion, il pourrait laisser tomber une de ses écailles. On m’a dit que le moyen le plus simple d’y parvenir est de briser un cristal de l’End pendant qu’il soigne le dragon, bien que la TNT puisse aussi être efficace. Jusqu’à présent, je n’ai pas réussi à en obtenir, mais j’ai entendu dire que Thruul a trouvé un moyen de les utiliser pour rendre les outils plus puissants.

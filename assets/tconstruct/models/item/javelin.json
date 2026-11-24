@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/javelin/head",
+  "layer1": "tconstruct:item/tool/javelin/handle",
+  "layer2": "tconstruct:item/tool/javelin/guard",
+  "layer3": "tconstruct:item/tool/javelin/grip",
+  "layer4": "tconstruct:item/tool/javelin/large/head",
+  "layer5": "tconstruct:item/tool/javelin/large/guard",
+  "layer6": "tconstruct:item/tool/javelin/large/handle",
+  "layer7": "tconstruct:item/tool/javelin/large/grip"
+ }
+}

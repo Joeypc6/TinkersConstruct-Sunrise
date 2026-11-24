@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/staff/ender_1",
+  "layer1": "tconstruct:item/tool/staff/ender_large_1"
+ }
+}

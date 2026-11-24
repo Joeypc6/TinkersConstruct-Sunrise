@@ -1,0 +1,7 @@
+# 黏血島
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_exploration_blood_island.snbt" />
+</GameScene>
+
+這些血紅色的島嶼偶爾會產生在地獄的熔岩海之上。和地獄的其他地方相比，這裡有更高的概率產生岩漿怪。並且這個地方還會產生一種奇怪的菌類變種，靈漿這種材料似乎就是從這裡來的。

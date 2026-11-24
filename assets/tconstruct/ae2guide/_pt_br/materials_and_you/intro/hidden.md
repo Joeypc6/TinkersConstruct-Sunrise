@@ -1,0 +1,5 @@
+# Selena
+
+![](tconstruct:book/selena.png)
+
+Eu, Selena Arcadia Eodhan, bibliotecária da Guilda dos Artesãos de Slime e líder da Unidade Militar Especial de Slimic, desejo a todos vocês muita habilidade em seus estudos e muita sorte em campo.

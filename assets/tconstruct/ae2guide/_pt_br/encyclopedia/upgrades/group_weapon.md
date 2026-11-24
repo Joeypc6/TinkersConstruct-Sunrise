@@ -1,0 +1,7 @@
+# Melhorias de Armas
+
+Melhorias de armas são mais eficazes em ferramentas construídas para combate, seja uma espada, uma ferramenta de coleta reformulada ou um arco usado para apunhalar.
+
+Quando aplicadas a armas de longo alcance, como arcos ou bestas, esses modificadores aumentarão a eficácia da arma apenas para ataques corpo a corpo, a menos que seja especificado o contrário.
+
+Muitas dessas melhorias também podem ser aplicadas ao peitorais com o modificador desarmado. Elas só melhorarão os ataques com a mão vazia.

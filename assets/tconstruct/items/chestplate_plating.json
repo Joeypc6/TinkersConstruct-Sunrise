@@ -1,0 +1,310 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:component",
+  "component": "minecraft:custom_data",
+  "cases": [
+   {
+    "when": {
+     "Material": "tconstruct:aluminum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_aluminum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:amethyst_bronze"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_amethyst_bronze"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:ancient"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_ancient"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:bronze"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_bronze"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cinderslime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_cinderslime_glow10"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:cobalt"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_cobalt"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:constantan"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_constantan"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:copper"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_copper"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:copper#oxidized"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_copper_oxidized"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:electrum"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_electrum"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:fiery"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_fiery_glow15"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:gold"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_gold"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:hepatizon"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_hepatizon"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:invar"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_invar"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:iron"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_iron"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:iron#oxidized"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_iron_oxidized"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:knightmetal"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_knightmetal"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:knightslime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_knightslime"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:lead"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_lead"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:manyullyn"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_manyullyn"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:nicrosil"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_nicrosil"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:obsidian"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_obsidian"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:osmium"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_osmium"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:pewter"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_pewter"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:pig_iron"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_pig_iron"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:queens_slime"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_queens_slime_glow9"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:rose_gold"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_rose_gold"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:scorched_stone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_scorched_stone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:seared_stone"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_seared_stone"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:silver"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_silver"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:slimesteel"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_slimesteel"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:steel"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_steel"
+    }
+   },
+   {
+    "when": {
+     "Material": "tconstruct:steeleaf"
+    },
+    "model": {
+     "type": "minecraft:model",
+     "model": "tconstruct:item/hz_material/tool/armor/plate/chestplate/plating_tconstruct_steeleaf"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "tconstruct:item/chestplate_plating"
+  }
+ }
+}

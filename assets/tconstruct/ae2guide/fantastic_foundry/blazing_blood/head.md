@@ -1,0 +1,5 @@
+# Head Melting
+
+<ItemImage id="tconstruct:blaze_head" scale="2" />
+
+Alternatively, maybe we don't need to melt the entire blaze. If I could find a way to sever its head off I bet that would be enough to melt into fuel.

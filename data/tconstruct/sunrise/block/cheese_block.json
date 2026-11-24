@@ -1,0 +1,31 @@
+{
+ "template": "minecraft:packed_mud",
+ "properties": {
+  "hardness": 1.5,
+  "explosion_resistance": 3.0,
+  "sounds": "minecraft:slime_block",
+  "occludes": false,
+  "map_color": 18
+ },
+ "components": {
+  "minecraft:food": {
+   "nutrition": 3,
+   "saturation": 2.4
+  },
+  "minecraft:consumable": {
+   "consume_seconds": 1.6,
+   "animation": "eat",
+   "sound": "minecraft:entity.generic.eat",
+   "on_consume_effects": [
+    {
+     "type": "tconstruct:remove_random_effect"
+    },
+    {
+     "type": "tconstruct:give_item",
+     "item": "tconstruct:cheese_ingot",
+     "count": 3
+    }
+   ]
+  }
+ }
+}

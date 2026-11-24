@@ -1,0 +1,7 @@
+# Funcionamento
+
+1: Esses 3 slots são onde você coloca o que deseja derreter. Pode ser minérios, lingotes ou qualquer outra coisa que você queira tentar derreter!
+
+2: Aqui é onde o material fundido será exibido. Lembre-se de que só é possível ter um material fundido por vez no fundidor.
+
+3: Aqui é onde aparece o seu combustível. Se você tiver um aquecedor, ele será exibido como mostrado, e será possível inserir qualquer item que sirva como combustível. Se tiver um tanque chamuscado, será exibido uma barra com combustível líquido. Clicar com o botão esquerdo na barra com um item de fluido tentará enchê-lo a partir do tanque, enquanto clicar com o botão direito tentará despejar o fluido no tanque.

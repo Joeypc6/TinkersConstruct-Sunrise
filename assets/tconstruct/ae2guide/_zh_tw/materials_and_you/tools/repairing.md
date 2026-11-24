@@ -1,0 +1,9 @@
+# 修理
+
+除非你眼睜睜看著工具損壞，否則修理工具就是重中之重。在工匠站或者工匠砧中放置工具以及與其頂端或大板相匹配的材料即可修復。或者，你可以使用修補件，它在工作臺中就能使用！
+
+<Row>
+  <ItemImage id="tconstruct:pickaxe" />
+  <ItemImage id="tconstruct:repair_kit" />
+  <ItemImage id="tconstruct:pickaxe" />
+</Row>

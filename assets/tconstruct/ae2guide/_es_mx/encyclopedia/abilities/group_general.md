@@ -1,0 +1,3 @@
+# Habilidades generales
+
+Las habilidades generales son efectivas en la mayoría de las herramientas, incluyendo herramientas de combate y recolección, así como en armaduras.

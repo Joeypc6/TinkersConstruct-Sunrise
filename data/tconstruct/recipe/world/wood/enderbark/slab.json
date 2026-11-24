@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "group": "wooden_slab",
+ "key": {
+  "#": "tconstruct:enderbark_planks"
+ },
+ "pattern": [
+  "###"
+ ],
+ "result": {
+  "id": "tconstruct:enderbark_planks_slab",
+  "count": 6
+ },
+ "show_notification": true
+}

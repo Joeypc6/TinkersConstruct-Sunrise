@@ -1,0 +1,7 @@
+# Armor Information
+
+Armor can be created in a variety of forms. Some armor is created in the crafting station, some in the tinker station, and some is made by casting.
+
+Armor have varying number of upgrade, defense, and ability slots based on the type; some types even have material traits.
+
+Unlike tools, holding the armor typically provides no effect; most modifiers require wearing the armor to be applicable.

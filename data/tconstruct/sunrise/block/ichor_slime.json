@@ -1,0 +1,6 @@
+{
+ "template": "minecraft:slime_block",
+ "properties": {
+  "light": 10
+ }
+}

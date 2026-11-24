@@ -1,0 +1,5 @@
+# Enfoque
+
+Este libro se centra exclusivamente en la construcción de herramientas. A diferencia de otros tomos como 'Los Materiales y Tú' o 'Fundición Poderosa', aquí no se explicará cómo utilizar la tecnología de creación; simplemente se listan todas las opciones disponibles asumiendo que ya dominas dicha tecnología.
+
+Si no estás seguro de cómo utilizar la tecnología o cómo encontrar los recursos, deberás consultar una copia de 'Los Materiales y Tú', 'Fundición Insignificante', 'Fundición Poderosa', 'Fundición Fantástica' o 'Artilugios de Tinker'.

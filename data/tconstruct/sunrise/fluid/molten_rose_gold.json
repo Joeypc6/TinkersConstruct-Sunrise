@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/alloy/rose_gold/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

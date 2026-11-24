@@ -1,0 +1,7 @@
+# Bonificación
+
+Los modificadores de bonificación son un grupo de modificadores sin ranura que otorgan ranuras de modificador adicionales.
+
+Por defecto, la mayoría de las herramientas pequeñas comienzan con 3 ranuras de mejora, y la mayoría de las herramientas anchas comienzan con 2. Los modificadores pueden añadir hasta 4 ranuras adicionales a la herramienta.
+
+Además, la mayoría de las herramientas comienzan con 1 ranura de habilidad. Los modificadores pueden añadir una ranura de habilidad adicional a la herramienta, o incluso dos.

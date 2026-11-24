@@ -1,0 +1,8 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/stone/still",
+ "tint": 4288372805,
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

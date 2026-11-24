@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "key": {
+  "m": "#tconstruct:anvil_metal",
+  "s": "#tconstruct:seared_blocks"
+ },
+ "pattern": [
+  "mmm",
+  " s ",
+  "sss"
+ ],
+ "result": {
+  "id": "tconstruct:tinkers_anvil"
+ },
+ "show_notification": true
+}

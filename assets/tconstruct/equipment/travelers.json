@@ -1,0 +1,26 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "tconstruct:travelers_0"
+   },
+   {
+    "texture": "tconstruct:travelers_1"
+   },
+   {
+    "texture": "tconstruct:travelers_2"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "tconstruct:travelers_0"
+   },
+   {
+    "texture": "tconstruct:travelers_1"
+   },
+   {
+    "texture": "tconstruct:travelers_2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+# Fonderie Minuscule
+
+Bien, maintenant que tu as fini de bricoler avec ces matériaux pitoyables que Selena te recommande, passons aux VRAIS MATÉRIAUX DE BRICOLEUR COMME CEUX QUE J'UTILISE. DU MÉTAL.
+
+Évidemment, tu ne seras jamais aussi cool et puissant que moi, car je suis le seul et unique §lTHRUUL M'GON§r, mais je suis sûr qu'un novice comme toi peut apprendre une chose ou deux et monter en température.
+
+N'oublie pas de me rejoindre dans mon prochain livre, Bricoleur. Une fois ton fourneau de fusion prêt, verse simplement de la pierre brûlée sur un livre !

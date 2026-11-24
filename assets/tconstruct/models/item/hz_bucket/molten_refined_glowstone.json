@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid_glow15",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/compat_alloy/refined_glowstone/still"
+ }
+}

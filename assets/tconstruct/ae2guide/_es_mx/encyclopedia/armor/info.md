@@ -1,0 +1,7 @@
+# Información de armadura
+
+La armadura puede crearse de diversas formas. Algunas se crean en la mesa de trabajo, otras en la estación de tinkers y otras se fabrican mediante fundición.
+
+La armadura tiene un número variable de ranuras de mejora, defensa y habilidad según el tipo; algunos tipos incluso tienen rasgos de material.
+
+A diferencia de las herramientas, sostener la armadura normalmente no otorga ningún efecto; la mayoría de los modificadores requieren llevar puesta la armadura para ser aplicables.

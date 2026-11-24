@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "key": {
+  "p": "tconstruct:pattern",
+  "w": "#tconstruct:planklike"
+ },
+ "pattern": [
+  "ppp",
+  "w w",
+  "w w"
+ ],
+ "result": {
+  "id": "tconstruct:tinker_station"
+ },
+ "show_notification": true
+}

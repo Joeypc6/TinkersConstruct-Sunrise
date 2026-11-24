@@ -1,0 +1,7 @@
+# Diseño de Herramientas
+
+¿Sin ideas? ¡Usa el método Thruul! Define un objetivo: ¿arma de daño?, ¿minero de menas?, ¿caza-withers? Cuanto más preciso el fin, mejor el resultado.
+
+Identifica estadísticas clave. Para combate: daño o DPS. Para minería: fortuna o velocidad. No olvides lo vital, como reparaciones baratas.
+
+Elige el tipo, materiales y mejoras. Mira el icono de consejos en la esquina. Modificadores como Castigo pueden ser mejores que simples mejoras de daño.

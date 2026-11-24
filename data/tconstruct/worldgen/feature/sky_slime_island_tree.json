@@ -1,0 +1,33 @@
+{
+ "type": "tconstruct:slime_tree",
+ "base_height": 5,
+ "can_double_height": true,
+ "has_vines": true,
+ "leaves_provider": {
+  "id": "tconstruct:sky_slime_leaves",
+  "properties": {
+   "distance": "7",
+   "persistent": "false",
+   "waterlogged": "false"
+  }
+ },
+ "planted": false,
+ "random_height": 4,
+ "trunk_provider": {
+  "id": "tconstruct:skyroot_log",
+  "properties": {
+   "axis": "y"
+  }
+ },
+ "vines_provider": {
+  "id": "tconstruct:sky_slime_vine",
+  "properties": {
+   "east": "false",
+   "north": "false",
+   "south": "false",
+   "stage": "middle",
+   "up": "false",
+   "west": "false"
+  }
+ }
+}

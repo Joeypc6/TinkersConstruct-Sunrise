@@ -1,0 +1,5 @@
+# Melee Upgrades
+
+With these upgrades perhaps you could forge the strongest weapon of all. Of course what weapon you choose is up to you.
+
+These upgrades can help increase your melee weapon's potential, increase the damage you do overall, to specific mobs, or to both. The choice is yours.

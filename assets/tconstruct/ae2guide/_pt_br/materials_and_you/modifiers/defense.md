@@ -1,0 +1,7 @@
+# Modificadores de Defesa
+
+<ItemImage id="tconstruct:creative_slot" scale="2" />
+
+Defesa é um tipo de modificador exclusivo para armaduras, aumentando a proteção contra ameaças específicas, como fogo ou repulsão. Eles oferecem outra forma de personalizar armaduras, já que a maioria dos tipos de armadura não possui atributos de material.Normalmente, as armaduras com um grande número de slots de defesa começam com menos slots de melhoria, o que significa que a funcionalidade é sacrificada em prol da proteção.
+
+No livro 'Fundições Poderosas' também contém uma lista completa de modificadores de defesa disponíveis para ferramentas, assim com a 'Enciclopédia do Tinkerando'.

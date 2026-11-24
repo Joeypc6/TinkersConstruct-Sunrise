@@ -1,0 +1,97 @@
+{
+ "template": "minecraft:structure_void",
+ "properties": {
+  "hardness": 0.0,
+  "explosion_resistance": 0.0,
+  "light": 14,
+  "sounds": "minecraft:white_wool",
+  "render_shape": "MODEL",
+  "occludes": false
+ },
+ "state_properties": {
+  "facing": {
+   "type": "enum",
+   "values": [
+    "down",
+    "up",
+    "north",
+    "east",
+    "south",
+    "west"
+   ]
+  }
+ },
+ "default_state": {
+  "facing": "down"
+ },
+ "shapes": {
+  "values": {
+   "up": [
+    [
+     0.0,
+     0.9375,
+     0.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   ],
+   "down": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0625,
+     1.0
+    ]
+   ],
+   "north": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     0.0625
+    ]
+   ],
+   "south": [
+    [
+     0.0,
+     0.0,
+     0.9375,
+     1.0,
+     1.0,
+     1.0
+    ]
+   ],
+   "east": [
+    [
+     0.9375,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   ],
+   "west": [
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0625,
+     1.0,
+     1.0
+    ]
+   ]
+  },
+  "properties": [
+   "facing"
+  ]
+ },
+ "collision_shapes": {
+  "default": []
+ }
+}

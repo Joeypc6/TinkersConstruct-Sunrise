@@ -1,0 +1,29 @@
+{
+ "parent": "tconstruct:foundry/alloyer",
+ "criteria": {
+  "open_foundry": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": false,
+  "description": {
+   "translate": "advancements.tconstruct.foundry.structure.description"
+  },
+  "frame": "task",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:foundry_controller"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.foundry.structure.title"
+  }
+ },
+ "requirements": [
+  [
+   "open_foundry"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

@@ -1,0 +1,12 @@
+{
+ "template": "minecraft:paper",
+ "max_stack_size": 1,
+ "components": {
+  "minecraft:equippable": {
+   "slot": "legs",
+   "equip_sound": "tconstruct:equip.slime",
+   "damage_on_hurt": false,
+   "asset_id": "tconstruct:slime"
+  }
+ }
+}

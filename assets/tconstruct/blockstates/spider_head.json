@@ -1,0 +1,52 @@
+{
+ "variants": {
+  "rotation=0": {
+   "model": "tconstruct:block/head/spider_0"
+  },
+  "rotation=1": {
+   "model": "tconstruct:block/head/spider_1"
+  },
+  "rotation=2": {
+   "model": "tconstruct:block/head/spider_2"
+  },
+  "rotation=3": {
+   "model": "tconstruct:block/head/spider_3"
+  },
+  "rotation=4": {
+   "model": "tconstruct:block/head/spider_4"
+  },
+  "rotation=5": {
+   "model": "tconstruct:block/head/spider_5"
+  },
+  "rotation=6": {
+   "model": "tconstruct:block/head/spider_6"
+  },
+  "rotation=7": {
+   "model": "tconstruct:block/head/spider_7"
+  },
+  "rotation=8": {
+   "model": "tconstruct:block/head/spider_8"
+  },
+  "rotation=9": {
+   "model": "tconstruct:block/head/spider_9"
+  },
+  "rotation=10": {
+   "model": "tconstruct:block/head/spider_10"
+  },
+  "rotation=11": {
+   "model": "tconstruct:block/head/spider_11"
+  },
+  "rotation=12": {
+   "model": "tconstruct:block/head/spider_12"
+  },
+  "rotation=13": {
+   "model": "tconstruct:block/head/spider_13"
+  },
+  "rotation=14": {
+   "model": "tconstruct:block/head/spider_14"
+  },
+  "rotation=15": {
+   "model": "tconstruct:block/head/spider_15"
+  }
+ }
+}

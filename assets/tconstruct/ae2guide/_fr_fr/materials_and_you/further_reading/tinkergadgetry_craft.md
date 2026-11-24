@@ -1,0 +1,6 @@
+# Bricolettes du Bricoleur par Melvin
+
+J’ai plein de machins faits de slime, de poudre à canon, et de toutes sortes de trucs bizarres que tu peux imaginer. J’ai même fabriqué une armure en slime ! Bientôt disponible dans §oBricolettes du Bricoleur§r par Melvin.
+
+
+<Recipe id="tconstruct:common/tinkers_gadgetry" />

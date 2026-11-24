@@ -1,0 +1,5 @@
+# Herramientas pequeñas
+
+Se crean en la Estación o Yunque con 2 o 3 piezas y rasgos. Suelen empezar con 1 ranura de habilidad y 3 de mejora.
+
+Casi todas añaden daño al cabezal. Algunas tienen modificadores que multiplican el daño o rasgos fijos de herramienta.

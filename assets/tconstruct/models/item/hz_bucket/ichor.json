@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/slime/ichor/still"
+ }
+}

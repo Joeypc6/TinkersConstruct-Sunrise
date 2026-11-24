@@ -1,0 +1,8 @@
+{
+ "sprite": "tconstruct:block/fluid/food/stew/still",
+ "tint": 4286846477,
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

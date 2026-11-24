@@ -1,0 +1,7 @@
+# Bonus
+
+Les modificateurs bonus sont un groupe de modificateurs sans emplacements qui accordent des emplacements supplémentaires pour modificateurs.
+
+Par défaut, la plupart des petits outils commencent avec 3 emplacements d’amélioration, et la plupart des grands outils commencent avec 2. Les modificateurs peuvent ajouter jusqu’à 4 emplacements supplémentaires à l’outil.
+
+De plus, la plupart des outils commencent avec 1 emplacement d’aptitude. Les modificateurs peuvent ajouter un emplacement d’aptitude supplémentaire à l’outil, voire potentiellement deux de plus.

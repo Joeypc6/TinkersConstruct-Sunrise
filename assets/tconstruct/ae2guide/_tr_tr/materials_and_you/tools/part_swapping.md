@@ -1,0 +1,5 @@
+# Parça Değişimi
+
+![](tconstruct:book/part_swapping.png)
+
+Geçmişte yaptığı bir yanlışı geri almak istedin mi? Şanslısınki araçlarında yapabilirsin. Parçalardan birinin malzemesini değiştirmek istiyorsan istenen yeni parça ile aracı onarıcı istasyonuna koy. Çok sayıda aynı parçası olan araçlarda doğru olanı değiştirmek için farklı yuvalar deneyin.

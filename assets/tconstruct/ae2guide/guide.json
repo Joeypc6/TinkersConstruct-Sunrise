@@ -1,0 +1,152 @@
+{
+ "title": "tconstruct.guide.title",
+ "start": "index.md",
+ "recipe_types": [
+  "tconstruct:melting",
+  "tconstruct:casting_table",
+  "tconstruct:casting_basin",
+  "tconstruct:alloy",
+  "tconstruct:part_builder",
+  "tconstruct:tool_building"
+ ],
+ "recipe_layouts": {
+  "tconstruct:melting": {
+   "machine": "tconstruct:seared_melter",
+   "inputs": [
+    "ingredient"
+   ],
+   "outputs": [
+    "result",
+    "byproducts"
+   ]
+  },
+  "tconstruct:casting_table": {
+   "machine": "tconstruct:seared_table",
+   "inputs": [
+    "cast",
+    "fluid"
+   ],
+   "outputs": [
+    "result"
+   ]
+  },
+  "tconstruct:casting_basin": {
+   "machine": "tconstruct:seared_basin",
+   "inputs": [
+    "cast",
+    "fluid"
+   ],
+   "outputs": [
+    "result"
+   ]
+  },
+  "tconstruct:ore_melting": {
+   "machine": "tconstruct:foundry_controller",
+   "inputs": [
+    "ingredient"
+   ],
+   "outputs": [
+    "result",
+    "byproducts"
+   ]
+  },
+  "tconstruct:alloy": {
+   "machine": "tconstruct:scorched_alloyer",
+   "inputs": [
+    "inputs"
+   ],
+   "outputs": [
+    "result"
+   ]
+  },
+  "tconstruct:molding_table": {
+   "machine": "tconstruct:seared_table",
+   "inputs": [
+    "material",
+    "pattern"
+   ],
+   "outputs": [
+    "result"
+   ]
+  },
+  "tconstruct:molding_basin": {
+   "machine": "tconstruct:seared_basin",
+   "inputs": [
+    "material",
+    "pattern"
+   ],
+   "outputs": [
+    "result"
+   ]
+  },
+  "tconstruct:extract_modifier": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:modifier_set_worktable": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:modifier_sorting": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:remove_modifier": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:toggle_interaction": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:enchantment_converting": {
+   "machine": "tconstruct:modifier_worktable",
+   "inputs": [
+    "tools",
+    "inputs"
+   ],
+   "outputs": [
+    "leftovers"
+   ]
+  },
+  "tconstruct:item_part_builder": {
+   "machine": "tconstruct:part_builder",
+   "inputs": [
+    "pattern_item"
+   ],
+   "outputs": [
+    "result"
+   ]
+  }
+ }
+}

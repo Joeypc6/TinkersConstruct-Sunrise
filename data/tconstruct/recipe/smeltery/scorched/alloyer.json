@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "key": {
+  "B": "tconstruct:scorched_brick",
+  "G": "#tconstruct:horizon/ingredient_0"
+ },
+ "pattern": [
+  "BGB",
+  "BBB"
+ ],
+ "result": {
+  "id": "tconstruct:scorched_alloyer"
+ },
+ "show_notification": true
+}

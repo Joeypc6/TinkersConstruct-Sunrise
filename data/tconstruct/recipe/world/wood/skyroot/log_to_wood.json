@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "group": "bark",
+ "key": {
+  "#": "tconstruct:skyroot_log"
+ },
+ "pattern": [
+  "##",
+  "##"
+ ],
+ "result": {
+  "id": "tconstruct:skyroot_wood",
+  "count": 3
+ },
+ "show_notification": true
+}

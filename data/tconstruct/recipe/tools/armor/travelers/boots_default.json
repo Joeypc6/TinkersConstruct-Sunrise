@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "s s",
+  "c c",
+  "l l"
+ ],
+ "key": {
+  "c": "minecraft:copper_ingot",
+  "l": "minecraft:leather",
+  "s": "#c:string"
+ },
+ "result": {
+  "id": "tconstruct:travelers_boots",
+  "count": 1,
+  "components": {
+   "tconstruct:materials": [
+    "tconstruct:copper",
+    "tconstruct:leather"
+   ]
+  }
+ }
+}

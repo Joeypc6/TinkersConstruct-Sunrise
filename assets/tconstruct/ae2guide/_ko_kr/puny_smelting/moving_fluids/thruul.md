@@ -1,0 +1,5 @@
+# 트루얼
+
+![](tconstruct:book/thruul.png)
+
+§l어이 §l대장장이, §l뭘 §l그렇게 §l뚫어져라 §l쳐다보나? §l이렇게 §l잘생기고 §l멋있는 §l사람 §l처음 §l보나?§r

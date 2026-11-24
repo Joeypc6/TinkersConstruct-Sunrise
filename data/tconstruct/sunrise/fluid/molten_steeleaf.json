@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/compat_ore/steeleaf/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

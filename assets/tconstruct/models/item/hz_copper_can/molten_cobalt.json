@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_copper_can/fluid_glow8",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/ore/cobalt/still"
+ }
+}

@@ -1,0 +1,365 @@
+{
+ "parent": "tconstruct:smeltery/tinkers_anvil",
+ "criteria": {
+  "ambidextrous": {
+   "trigger": "minecraft:impossible"
+  },
+  "aqua_affinity": {
+   "trigger": "minecraft:impossible"
+  },
+  "autosmelt": {
+   "trigger": "minecraft:impossible"
+  },
+  "ballista": {
+   "trigger": "minecraft:impossible"
+  },
+  "blocking": {
+   "trigger": "minecraft:impossible"
+  },
+  "bonking": {
+   "trigger": "minecraft:impossible"
+  },
+  "bouncy": {
+   "trigger": "minecraft:impossible"
+  },
+  "boundless": {
+   "trigger": "minecraft:impossible"
+  },
+  "brushing": {
+   "trigger": "minecraft:impossible"
+  },
+  "bucketing": {
+   "trigger": "minecraft:impossible"
+  },
+  "bulk_quiver": {
+   "trigger": "minecraft:impossible"
+  },
+  "bursting": {
+   "trigger": "minecraft:impossible"
+  },
+  "channeling": {
+   "trigger": "minecraft:impossible"
+  },
+  "crafting_table": {
+   "trigger": "minecraft:impossible"
+  },
+  "crystalshot": {
+   "trigger": "minecraft:impossible"
+  },
+  "double_jump": {
+   "trigger": "minecraft:impossible"
+  },
+  "drill_attack": {
+   "trigger": "minecraft:impossible"
+  },
+  "dual_wielding": {
+   "trigger": "minecraft:impossible"
+  },
+  "exchanging": {
+   "trigger": "minecraft:impossible"
+  },
+  "expanded": {
+   "trigger": "minecraft:impossible"
+  },
+  "firestarter": {
+   "trigger": "minecraft:impossible"
+  },
+  "flamewake": {
+   "trigger": "minecraft:impossible"
+  },
+  "flinging": {
+   "trigger": "minecraft:impossible"
+  },
+  "frost_walker": {
+   "trigger": "minecraft:impossible"
+  },
+  "gilded": {
+   "trigger": "minecraft:impossible"
+  },
+  "glowing": {
+   "trigger": "minecraft:impossible"
+  },
+  "grapple": {
+   "trigger": "minecraft:impossible"
+  },
+  "luck": {
+   "trigger": "minecraft:impossible"
+  },
+  "melting": {
+   "trigger": "minecraft:impossible"
+  },
+  "multishot": {
+   "trigger": "minecraft:impossible"
+  },
+  "parrying": {
+   "trigger": "minecraft:impossible"
+  },
+  "pathing": {
+   "trigger": "minecraft:impossible"
+  },
+  "pockets": {
+   "trigger": "minecraft:impossible"
+  },
+  "protection": {
+   "trigger": "minecraft:impossible"
+  },
+  "reach": {
+   "trigger": "minecraft:impossible"
+  },
+  "reflecting": {
+   "trigger": "minecraft:impossible"
+  },
+  "returning": {
+   "trigger": "minecraft:impossible"
+  },
+  "silky": {
+   "trigger": "minecraft:impossible"
+  },
+  "slimeball": {
+   "trigger": "minecraft:impossible"
+  },
+  "sliver": {
+   "trigger": "minecraft:impossible"
+  },
+  "slurping": {
+   "trigger": "minecraft:impossible"
+  },
+  "snowdrift": {
+   "trigger": "minecraft:impossible"
+  },
+  "soul_belt": {
+   "trigger": "minecraft:impossible"
+  },
+  "spilling": {
+   "trigger": "minecraft:impossible"
+  },
+  "spitting": {
+   "trigger": "minecraft:impossible"
+  },
+  "splashing": {
+   "trigger": "minecraft:impossible"
+  },
+  "springing": {
+   "trigger": "minecraft:impossible"
+  },
+  "strength": {
+   "trigger": "minecraft:impossible"
+  },
+  "stripping": {
+   "trigger": "minecraft:impossible"
+  },
+  "throwing": {
+   "trigger": "minecraft:impossible"
+  },
+  "tilling": {
+   "trigger": "minecraft:impossible"
+  },
+  "tool_belt": {
+   "trigger": "minecraft:impossible"
+  },
+  "trick_quiver": {
+   "trigger": "minecraft:impossible"
+  },
+  "unbreakable": {
+   "trigger": "minecraft:impossible"
+  },
+  "warping": {
+   "trigger": "minecraft:impossible"
+  },
+  "wetting": {
+   "trigger": "minecraft:impossible"
+  },
+  "wings": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.smeltery.abilities.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:silky_cloth"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.smeltery.abilities.title"
+  }
+ },
+ "requirements": [
+  [
+   "expanded"
+  ],
+  [
+   "gilded"
+  ],
+  [
+   "luck"
+  ],
+  [
+   "unbreakable"
+  ],
+  [
+   "melting"
+  ],
+  [
+   "blocking"
+  ],
+  [
+   "parrying"
+  ],
+  [
+   "dual_wielding"
+  ],
+  [
+   "spilling"
+  ],
+  [
+   "autosmelt"
+  ],
+  [
+   "exchanging"
+  ],
+  [
+   "silky"
+  ],
+  [
+   "bulk_quiver"
+  ],
+  [
+   "trick_quiver"
+  ],
+  [
+   "crystalshot"
+  ],
+  [
+   "multishot"
+  ],
+  [
+   "ballista"
+  ],
+  [
+   "slimeball"
+  ],
+  [
+   "sliver"
+  ],
+  [
+   "grapple"
+  ],
+  [
+   "throwing"
+  ],
+  [
+   "returning"
+  ],
+  [
+   "channeling"
+  ],
+  [
+   "bucketing"
+  ],
+  [
+   "firestarter"
+  ],
+  [
+   "glowing"
+  ],
+  [
+   "pathing"
+  ],
+  [
+   "stripping"
+  ],
+  [
+   "tilling"
+  ],
+  [
+   "brushing"
+  ],
+  [
+   "spitting"
+  ],
+  [
+   "splashing"
+  ],
+  [
+   "slurping"
+  ],
+  [
+   "bonking"
+  ],
+  [
+   "flinging"
+  ],
+  [
+   "springing"
+  ],
+  [
+   "warping"
+  ],
+  [
+   "drill_attack"
+  ],
+  [
+   "protection"
+  ],
+  [
+   "bursting"
+  ],
+  [
+   "wetting"
+  ],
+  [
+   "aqua_affinity"
+  ],
+  [
+   "ambidextrous"
+  ],
+  [
+   "reach"
+  ],
+  [
+   "strength"
+  ],
+  [
+   "wings"
+  ],
+  [
+   "pockets"
+  ],
+  [
+   "tool_belt"
+  ],
+  [
+   "soul_belt"
+  ],
+  [
+   "crafting_table"
+  ],
+  [
+   "bouncy"
+  ],
+  [
+   "double_jump"
+  ],
+  [
+   "flamewake"
+  ],
+  [
+   "frost_walker"
+  ],
+  [
+   "snowdrift"
+  ],
+  [
+   "boundless"
+  ],
+  [
+   "reflecting"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

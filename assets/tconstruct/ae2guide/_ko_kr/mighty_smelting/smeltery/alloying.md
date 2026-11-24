@@ -1,0 +1,11 @@
+# 합금
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/structure_smeltery.snbt" />
+</GameScene>
+
+합금은 재료들을 결합하여, 더 강력한 물질을 만들어 내는 것이다.
+
+합금할 수 있는 재료들을 제련소에 넣고 녹이면, 이전의 재료들보다 강력한 새로운 물질이 만들어진다.
+
+어떤 재료를 합금하기 위해서는 용암보다 더 뜨거운 연료가 필요할 수도 있지.

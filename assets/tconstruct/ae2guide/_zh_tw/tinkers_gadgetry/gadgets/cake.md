@@ -1,0 +1,7 @@
+# 史萊姆蛋糕
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_gadgets_cake.snbt" />
+</GameScene>
+
+我發現，做蛋糕的時候可以用史萊姆草代替小麥，並用史萊姆做成風味獨特的糖霜在上面塗抹均勻。儘管它們做成的蛋糕味道一般，但碧空史萊姆蛋糕似乎能讓我跳得更高，而岩漿蛋糕可以讓我免疫火焰。我有點好奇終界史萊姆蛋糕和大地史萊姆蛋糕吃下後會有什麼效果……

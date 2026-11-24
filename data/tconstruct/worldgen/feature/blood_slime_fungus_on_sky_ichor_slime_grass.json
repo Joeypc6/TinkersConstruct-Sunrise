@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:huge_fungus",
+ "decor_state": "tconstruct:ichor_congealed_slime",
+ "hat_state": "tconstruct:blood_slime_leaves",
+ "planted": true,
+ "replaceable_blocks": {
+  "type": "minecraft:matching_block_tag",
+  "tag": "tconstruct:slimy_fungus_can_grow_through"
+ },
+ "stem_state": {
+  "id": "tconstruct:bloodshroom_log",
+  "properties": {
+   "axis": "y"
+  }
+ },
+ "valid_base_block": {
+  "id": "tconstruct:sky_ichor_slime_grass"
+ }
+}

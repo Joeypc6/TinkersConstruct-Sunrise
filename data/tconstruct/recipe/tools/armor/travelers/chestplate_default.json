@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "lsl",
+  "lcl",
+  "lcl"
+ ],
+ "key": {
+  "c": "minecraft:copper_ingot",
+  "l": "minecraft:leather",
+  "s": "#c:string"
+ },
+ "result": {
+  "id": "tconstruct:travelers_chestplate",
+  "count": 1,
+  "components": {
+   "tconstruct:materials": [
+    "tconstruct:copper",
+    "tconstruct:leather"
+   ]
+  }
+ }
+}

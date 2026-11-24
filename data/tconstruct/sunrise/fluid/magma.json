@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/slime/magma/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

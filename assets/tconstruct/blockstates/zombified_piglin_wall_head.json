@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "tconstruct:block/head/zombified_piglin_wall_north"
+  },
+  "facing=south": {
+   "model": "tconstruct:block/head/zombified_piglin_wall_south"
+  },
+  "facing=west": {
+   "model": "tconstruct:block/head/zombified_piglin_wall_west"
+  },
+  "facing=east": {
+   "model": "tconstruct:block/head/zombified_piglin_wall_east"
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid_glow2",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/stone/porcelain/still"
+ }
+}

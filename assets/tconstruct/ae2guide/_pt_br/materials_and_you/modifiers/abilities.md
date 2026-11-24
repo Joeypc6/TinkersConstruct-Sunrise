@@ -1,0 +1,7 @@
+# Habilidades
+
+<ItemImage id="tconstruct:creative_slot" scale="2" />
+
+As habilidades são modificadores poderosos que mudam drasticamente uma ferramenta. Modificadores como 'Sedoso' e 'Auto-Fundição' são notáveis, pois ambos alteram os efeitos da mineração de blocos, enquanto a 'Dupla Empunhadura' torna as ferramentas muito mais fáceis de manusear.Quase todas as ferramentas começam com um único slot de habilidade e podem receber até 2 adicionais, então escolha as habilidades com sabedoria.
+
+No livro 'Fundições Poderosas' de Thruul M'Gon tem uma lista completa de habilidades disponíveis para as ferramentas, juntamente com a 'Enciclopédia do Tinkerando'.

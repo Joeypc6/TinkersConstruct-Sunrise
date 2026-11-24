@@ -1,0 +1,7 @@
+# Slimy Seeds
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_exploration_grass_seeds.snbt" />
+</GameScene>
+
+Occasionally when exploring dungeons or nether fortresses, I have found slimy seeds in the chests. I am unsure of their origin, but planting them on either regular or slimy dirt produces slimy grass of the same quality as if you transplanted it from one of the islands. I have also seen slimy saplings in these chests, so it's possible you could get all the flora of the islands without ever visiting one.

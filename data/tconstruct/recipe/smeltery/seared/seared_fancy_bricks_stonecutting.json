@@ -1,0 +1,8 @@
+{
+ "type": "minecraft:stonecutting",
+ "count": 1,
+ "ingredient": "#tconstruct:horizon/ingredient_6",
+ "result": {
+  "id": "tconstruct:seared_fancy_bricks"
+ }
+}

@@ -1,0 +1,3 @@
+# Koruma Savunma Değiştiricileri
+
+Koruma savunma değiştiricileri belli bir hasar türüne karşı direnci artırır. Bütün hasar kaynakları beş türden birine sığmalıdır ve türler özgürce edilgen koruma için zırhlar ve kalkanlar üzerinde karıştırılabilir.

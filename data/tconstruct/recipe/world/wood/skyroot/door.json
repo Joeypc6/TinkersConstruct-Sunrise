@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "redstone",
+ "group": "wooden_door",
+ "key": {
+  "#": "tconstruct:skyroot_planks"
+ },
+ "pattern": [
+  "##",
+  "##",
+  "##"
+ ],
+ "result": {
+  "id": "tconstruct:skyroot_door",
+  "count": 3
+ },
+ "show_notification": true
+}

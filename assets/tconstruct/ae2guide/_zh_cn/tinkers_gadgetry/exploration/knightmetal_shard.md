@@ -1,0 +1,9 @@
+# 骑士金属碎片
+
+<GameScene zoom="3" interactive={true}>
+  <ImportStructure src="/scenes/setup_tinkers_gadgetry_exploration_knightmetal_shard.snbt" />
+</GameScene>
+
+<ItemImage id="tconstruct:knightmetal_shard" scale="2" />
+
+与钢碎片的获取类似，骑士金属碎片也可通过史莱姆取得，但这次需要找到含有骑士金属核 的末影史莱姆。同样地，骑士金属碎片可以在 末影黏液水晶洞里找到，并且采集后也不再重 新生长。你还可以直接前往暮色森林寻找碎片，尽管打通两个维度的方块已然遗失在了历史长 河之中。

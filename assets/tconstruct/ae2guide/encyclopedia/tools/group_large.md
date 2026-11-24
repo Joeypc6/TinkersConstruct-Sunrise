@@ -1,0 +1,5 @@
+# Broad Tools
+
+All broad tools require the Tinker's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot.
+
+Large tools have both attack bonuses and modifiers like small tools, and many more have traits. In addition, many tools have a durability or a mining speed modifier that act similarly to the attack modifier, affecting both base stats and stat bonuses from modifiers.

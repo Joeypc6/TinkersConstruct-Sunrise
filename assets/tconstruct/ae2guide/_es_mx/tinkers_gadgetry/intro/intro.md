@@ -1,0 +1,5 @@
+# Guía de Artilugios de Melvin
+
+Hola, futuro o actual hojalatero. Mi nombre es Melvin. Una vez caí en un pozo de slime y, desde entonces, no he dejado de experimentar con él. Aunque aún no soy un maestro, espero que mis descubrimientos me permitan algún día ser aceptado en sus filas.
+
+Este libro cubre inventos que he realizado, mis intentos por descubrir nuevos modificadores y mis viajes para hallar todos los tipos de slime. Espero que esto te ayude en tu misión de dominar tanto la forja como los slimes del mundo.

@@ -1,0 +1,5 @@
+# Further Reading
+
+Now that you understand the basics of tinkering, take some time to use what you learned and create a few basic tools. Once you are comfortable with the basics, you can read books from some of my colleagues covering more advanced topics.
+
+A tip for managing these books: since most of us only have two arms, consider taking advantage of a lectern to hold your books near your workstation.

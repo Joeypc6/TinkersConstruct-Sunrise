@@ -1,0 +1,29 @@
+{
+ "parent": "tconstruct:tools/tinker_tool",
+ "criteria": {
+  "damage": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.tools.one_shot.description"
+  },
+  "frame": "goal",
+  "hidden": false,
+  "icon": {
+   "id": "minecraft:zombie_head"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.tools.one_shot.title"
+  }
+ },
+ "requirements": [
+  [
+   "damage"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

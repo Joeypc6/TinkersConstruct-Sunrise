@@ -1,0 +1,13 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/sledge_hammer/head_broken",
+  "layer1": "tconstruct:item/tool/sledge_hammer/handle",
+  "layer2": "tconstruct:item/tool/sledge_hammer/back_broken",
+  "layer3": "tconstruct:item/tool/sledge_hammer/front_broken",
+  "layer4": "tconstruct:item/tool/sledge_hammer/large/head_broken",
+  "layer5": "tconstruct:item/tool/sledge_hammer/large/handle",
+  "layer6": "tconstruct:item/tool/sledge_hammer/large/back_broken",
+  "layer7": "tconstruct:item/tool/sledge_hammer/large/front_broken"
+ }
+}

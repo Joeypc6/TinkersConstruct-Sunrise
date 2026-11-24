@@ -1,0 +1,251 @@
+{
+ "parent": "tconstruct:tools/netherite_tier",
+ "criteria": {
+  "amethyst_bronze": {
+   "trigger": "minecraft:impossible"
+  },
+  "bamboo": {
+   "trigger": "minecraft:impossible"
+  },
+  "blazewood": {
+   "trigger": "minecraft:impossible"
+  },
+  "blazing_bone": {
+   "trigger": "minecraft:impossible"
+  },
+  "bone": {
+   "trigger": "minecraft:impossible"
+  },
+  "chorus": {
+   "trigger": "minecraft:impossible"
+  },
+  "cinderslime": {
+   "trigger": "minecraft:impossible"
+  },
+  "cobalt": {
+   "trigger": "minecraft:impossible"
+  },
+  "copper": {
+   "trigger": "minecraft:impossible"
+  },
+  "darkthread": {
+   "trigger": "minecraft:impossible"
+  },
+  "enderslime_vine": {
+   "trigger": "minecraft:impossible"
+  },
+  "flint": {
+   "trigger": "minecraft:impossible"
+  },
+  "hepatizon": {
+   "trigger": "minecraft:impossible"
+  },
+  "ichorskin": {
+   "trigger": "minecraft:impossible"
+  },
+  "iron": {
+   "trigger": "minecraft:impossible"
+  },
+  "jeweled_hide": {
+   "trigger": "minecraft:impossible"
+  },
+  "knightmetal": {
+   "trigger": "minecraft:impossible"
+  },
+  "knightslime": {
+   "trigger": "minecraft:impossible"
+  },
+  "leather": {
+   "trigger": "minecraft:impossible"
+  },
+  "manyullyn": {
+   "trigger": "minecraft:impossible"
+  },
+  "nahuatl": {
+   "trigger": "minecraft:impossible"
+  },
+  "necrotic_bone": {
+   "trigger": "minecraft:impossible"
+  },
+  "pig_iron": {
+   "trigger": "minecraft:impossible"
+  },
+  "queens_slime": {
+   "trigger": "minecraft:impossible"
+  },
+  "rock": {
+   "trigger": "minecraft:impossible"
+  },
+  "rose_gold": {
+   "trigger": "minecraft:impossible"
+  },
+  "scorched_stone": {
+   "trigger": "minecraft:impossible"
+  },
+  "seared_stone": {
+   "trigger": "minecraft:impossible"
+  },
+  "skyslime_vine": {
+   "trigger": "minecraft:impossible"
+  },
+  "slimeskin": {
+   "trigger": "minecraft:impossible"
+  },
+  "slimesteel": {
+   "trigger": "minecraft:impossible"
+  },
+  "slimewood": {
+   "trigger": "minecraft:impossible"
+  },
+  "string": {
+   "trigger": "minecraft:impossible"
+  },
+  "twisting_vine": {
+   "trigger": "minecraft:impossible"
+  },
+  "vine": {
+   "trigger": "minecraft:impossible"
+  },
+  "weeping_vine": {
+   "trigger": "minecraft:impossible"
+  },
+  "whitestone": {
+   "trigger": "minecraft:impossible"
+  },
+  "wood": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "display": {
+  "announce_to_chat": true,
+  "description": {
+   "translate": "advancements.tconstruct.tools.material_master.description"
+  },
+  "frame": "challenge",
+  "hidden": false,
+  "icon": {
+   "id": "tconstruct:manyullyn_ingot"
+  },
+  "show_toast": true,
+  "title": {
+   "translate": "advancements.tconstruct.tools.material_master.title"
+  }
+ },
+ "requirements": [
+  [
+   "wood"
+  ],
+  [
+   "flint"
+  ],
+  [
+   "rock"
+  ],
+  [
+   "bone"
+  ],
+  [
+   "necrotic_bone"
+  ],
+  [
+   "leather"
+  ],
+  [
+   "string"
+  ],
+  [
+   "vine"
+  ],
+  [
+   "bamboo"
+  ],
+  [
+   "chorus"
+  ],
+  [
+   "iron"
+  ],
+  [
+   "seared_stone"
+  ],
+  [
+   "scorched_stone"
+  ],
+  [
+   "copper"
+  ],
+  [
+   "slimewood"
+  ],
+  [
+   "slimeskin"
+  ],
+  [
+   "skyslime_vine"
+  ],
+  [
+   "weeping_vine"
+  ],
+  [
+   "twisting_vine"
+  ],
+  [
+   "whitestone"
+  ],
+  [
+   "rose_gold"
+  ],
+  [
+   "slimesteel"
+  ],
+  [
+   "nahuatl"
+  ],
+  [
+   "amethyst_bronze"
+  ],
+  [
+   "pig_iron"
+  ],
+  [
+   "cobalt"
+  ],
+  [
+   "darkthread"
+  ],
+  [
+   "ichorskin"
+  ],
+  [
+   "manyullyn"
+  ],
+  [
+   "hepatizon"
+  ],
+  [
+   "cinderslime"
+  ],
+  [
+   "queens_slime"
+  ],
+  [
+   "blazing_bone"
+  ],
+  [
+   "blazewood"
+  ],
+  [
+   "jeweled_hide"
+  ],
+  [
+   "knightmetal"
+  ],
+  [
+   "knightslime"
+  ],
+  [
+   "enderslime_vine"
+  ]
+ ],
+ "sends_telemetry_event": false
+}

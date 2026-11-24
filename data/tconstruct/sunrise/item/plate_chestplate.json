@@ -1,0 +1,12 @@
+{
+ "template": "minecraft:paper",
+ "max_stack_size": 1,
+ "components": {
+  "minecraft:equippable": {
+   "slot": "chest",
+   "equip_sound": "minecraft:item.armor.equip_iron",
+   "damage_on_hurt": false,
+   "asset_id": "tconstruct:plate"
+  }
+ }
+}

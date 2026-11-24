@@ -1,0 +1,5 @@
+# Slotless Modifiers
+
+Run out of slots? Well good news, all of the modifiers in this section need no slots to apply, perhaps some may even give you more slots!
+
+It's slotless. You don't need an ability or upgrade slot to put it on? What more do you want? Cookies?

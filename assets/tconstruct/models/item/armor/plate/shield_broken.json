@@ -1,0 +1,9 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/armor/plate/shield/core_broken",
+  "layer1": "tconstruct:item/tool/armor/plate/shield/plating_broken",
+  "layer2": "tconstruct:item/tool/armor/plate/shield/plating_large_broken",
+  "layer3": "tconstruct:item/tool/armor/plate/shield/core_large_broken"
+ }
+}

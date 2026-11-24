@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/alloy/manyullyn/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

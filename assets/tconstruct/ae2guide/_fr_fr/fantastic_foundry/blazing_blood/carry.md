@@ -1,0 +1,5 @@
+# Transport
+
+![](tconstruct:book/carry_blaze.png)
+
+« Mais Nemea, comment je fais pour mettre un blaze dans une fonderie ? ». Si tu étais ce binoclard de Melvin, tu proposerais peut-être « Bois une potion de résistance au feu puis utilise un sac à dos-cochon ou une fronde à ichor. » Parfait si tu veux finir en charbon.

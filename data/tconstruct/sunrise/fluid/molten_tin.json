@@ -1,0 +1,7 @@
+{
+ "sprite": "tconstruct:block/fluid/molten/compat_ore/tin/still",
+ "world": {
+  "tick_delay": 5,
+  "bucket": true
+ }
+}

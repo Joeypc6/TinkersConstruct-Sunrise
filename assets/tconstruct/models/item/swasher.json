@@ -1,0 +1,9 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "tconstruct:item/tool/swasher/blade",
+  "layer1": "tconstruct:item/tool/swasher/tank",
+  "layer2": "tconstruct:item/tool/swasher/handle",
+  "layer3": "tconstruct:item/tool/swasher/barrel"
+ }
+}

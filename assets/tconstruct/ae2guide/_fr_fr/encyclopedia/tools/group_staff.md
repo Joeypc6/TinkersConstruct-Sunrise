@@ -1,0 +1,5 @@
+# Bâtons
+
+Les bâtons sont des outils hautement modifiables. Bien qu'ils n'aient aucun potentiel au corps à corps, ils compensent cela par la large gamme d'aptitudes qu'ils peuvent utiliser tant en interaction qu'en attaque. Ils offrent notamment +40 % de vitesse de déplacement lors de leur utilisation et permettent de bloquer jusqu'à 15 points de dégâts en bloquant.
+
+Les capacités des bâtons peuvent être configurées à l'aide de la table de modification.

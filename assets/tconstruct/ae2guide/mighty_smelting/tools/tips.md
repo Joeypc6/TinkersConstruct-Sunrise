@@ -1,0 +1,7 @@
+# Tool Tips
+
+Alright Tinker, you are about to learn about one of the most powerful ways to improve tools, abilities. Before you do, let me give you some quick advice.
+
+First, you might think the goal of tinkering is to create the best tool, but its not! Your goal is to make a good tool, and its hard to fail that. You can always improve your tool later.
+
+Also, you might be wondering, "Is something worth using?". Simple! Just try them all! If you hate it, you can always recycle the tool, or just hide it in a chest. No rush to try each modifier, just start with what sounds fun!

@@ -1,0 +1,7 @@
+# Funcionamiento
+
+1: En estas 3 ranuras colocas lo que quieras fundir: ya sean menas, lingotes o cualquier otra cosa que desees intentar derretir.
+
+2: Aquí verás tu material fundido. Recuerda que el fundidor solo puede procesar un tipo de material a la vez.
+
+3: Aquí se muestra el combustible. Con un calentador, insertas objetos sólidos. Con un tanque, verás una barra de líquido: clic izquierdo para llenar un recipiente y clic derecho para vaciarlo en el tanque.

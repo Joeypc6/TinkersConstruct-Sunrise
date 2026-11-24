@@ -1,0 +1,6 @@
+{
+ "parent": "tconstruct:item/hz_bucket/fluid_glow9",
+ "textures": {
+  "fluid": "tconstruct:block/fluid/molten/alloy/queens_slime/still"
+ }
+}
