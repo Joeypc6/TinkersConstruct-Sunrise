@@ -1,6 +1,6 @@
 id = "tconstruct"
 name = "Tinkers' Construct"
-version = "3.12.2"
+version = "3.12.3"
 description = "Smelteries, casting, modular tools built from material parts, slime islands and gadgets. A port of Tinkers' Construct 1.20.1-3.12.1.231 (SlimeKnights, MIT) and the parts of Mantle it uses to Sunrise's mod API."
 authors = ["Sunrise port: Joeypc6", "SlimeKnights", "mDiyo", "boni", "KnightMiner"]
 api = "0.2"
